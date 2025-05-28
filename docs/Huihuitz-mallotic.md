@@ -1,0 +1,10 @@
+Variants: huihuitz-mallotic, huitz-mallotic  
+
+## Subchapter 7j  
+**Pain in the belly.** Let the root of the plant [ohua-xocoyolin](Ohua-xoxocoyolin.md) and alectorium be ground together, and the liquor to be taken into the abdomen by the posterior part; as a drink also give him the ground root of the plant [huitz-mallotic](Huihuitz-mallotic.md).  
+[https://archive.org/details/aztec-herbal-of-1552/page/52](https://archive.org/details/aztec-herbal-of-1552/page/52)  
+
+## Subchapter 8c  
+**The bladder-wort.** When the flow of the urine is shut off, to open it take the roots of the plants [mamaxtla](Mamaxtla.md) and [cohuanene-pilli](Coanenepilli.md), the tlatlauhqui amoxtli, the very white flower [yollo-xochitl](Yollo-xochitl.md), and the tail of a sucking puppy; grind these up in acrid tasting water, macerate the well-known [chian](Chian.md) seed therein, and administer it. The abdomen is also to be washed out with the root of the herb [ohua-xocoyolin](Ohua-xoxocoyolin.md) crushed in hot water, and the juice given through a clyster. If this medicine avails nothing it will be necessary to take the pith of an extremely slender palm, covered with thin cotton and smeared with honey and the crushed root of the herb [huihuitz-mallotic](Huihuitz-mallotic.md), and this cautiously inserted into the virile member. If this is done the stopped urine will be freed.  
+[https://archive.org/details/aztec-herbal-of-1552/page/59](https://archive.org/details/aztec-herbal-of-1552/page/59)  
+
