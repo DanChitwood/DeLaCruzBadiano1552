@@ -1,0 +1,6 @@
+Variants: quauh-patli  
+
+## Subchapter 9m  
+**Festered places with worms.** When you see a festered spot gathering worms, grind together the leaves of the [quetzal-mizquitl](Quetzal-misquitl.md), [cimatl](Cimatl.md), [tlal-cacapol](Tlal-cacapol.md)and bramble bushes; also the root of the [tlaquilin](Tlaquilin.md) and the bark of the [xilo-xochitl](Xilo-xochitl.md), and put into our best wine; apply the liquor to the affected spot morning and evening. It will also be well to apply a medicament from bramble bushes, oak bark and leaves of the [quetzal-ylin](Quetzal-ylin.md), [tlal-patli](Tlal-patli.md), [quauh-patli](Quauh-patli.md), and [tlatlanquaye](Tlatlanquaye.md), with the [tlal-ahuehuetl](Tlal-ahuehuetl.md) root, ground up in water with yolk of egg. Use this twice daily, morning and evening, that purulence may dry up.  
+[https://archive.org/details/aztec-herbal-of-1552/page/87](https://archive.org/details/aztec-herbal-of-1552/page/87)  
+
