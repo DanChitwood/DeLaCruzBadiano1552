@@ -1,0 +1,6 @@
+Variants: tzopelica-cococ  
+
+## Subchapter 6b  
+**For a cough.** If one is troubled by a cough, let him forthwith sip the boiled liquor of the [tlaco-xilo-xochitl](Tlaco-xilo-xochitl.md) root skinned and ground up in water; using a part of this, with honey, to anoint the throat. If he spits blood also, let him take the same liquor as a drink before meals. It would help if he gnawed and chewed some of the said root, with honey. The root of the herb called [tzopelica-cococ](Tzopelica-cococ.md), ground in tepid water is also of value for one with a cough; let him either drink the liquor or gnaw the root.  
+[https://archive.org/details/aztec-herbal-of-1552/page/37](https://archive.org/details/aztec-herbal-of-1552/page/37)  
+

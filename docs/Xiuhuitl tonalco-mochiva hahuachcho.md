@@ -1,0 +1,4 @@
+Variants:   
+
+![D_ID184_p012_01_Xiuhuitl_tonalco-mochiva_hahuachcho.png](assets/D_ID184_p012_01_Xiuhuitl_tonalco-mochiva_hahuachcho.png)  
+Leaf traces by: Dan Chitwood, Michigan State University, USA  
