@@ -1,6 +1,0 @@
-Variants: nonochton  
-
-## Subchapter 7c  
-**For pain at the heart.** For him whose heart pains him or burns, take the plant[nonochton](Nonochton_azcapanixua.md) that grows near an ants’ nest, gold, electrum, [teo-xihuitl](Teo-xihuitl_v1.md), [chichiltic tapachtli](chichiltic_tapachtli.md) and [tetlahuitl](tetlahuitl_v2.md), with the burned heart of a deer, and grind them up together in water; let him drink the liquor.  
-[https://archive.org/details/aztec-herbal-of-1552/page/47](https://archive.org/details/aztec-herbal-of-1552/page/47)  
-

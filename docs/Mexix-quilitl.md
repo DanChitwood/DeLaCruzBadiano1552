@@ -1,6 +1,0 @@
-Variants: mexix-quilitl  
-
-## Subchapter 6a  
-**Against the hiccups.** For the hiccups take the root of the bush cohuatli, leaves of the plant [mexix-quilitl](Mexix-quilitl.md), bark of the red pine, leaves of the aromatic [tlatlanquaye](Tlatlanquaye.md) plant, grind them in water and boil them; when well boiled mix white honey and let him drink moderately. Throw white frankincense and [xochi-ocotzotl](xochi-ocotzotl.md) on the coals, soaking a pad of cotton with the odor, and with which the chest is to be heated. Leaves of cypress also, with the herbs [papalo-quilitl](Papalo-quilitl.md) and [yyauhtli](Y-yauhtli.md), are to be macerated in water, with the heated liquor whereof the chest is to be rubbed.  
-[https://archive.org/details/aztec-herbal-of-1552/page/36](https://archive.org/details/aztec-herbal-of-1552/page/36)  
-
