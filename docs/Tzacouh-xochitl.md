@@ -1,0 +1,6 @@
+Variants: tzacouh-xochitl  
+
+## Subchapter 10d  
+**Fear or timidity.** Let one who is fear-burdened take as a drink a potion made of the herb [tonatiuh-yxiuh](Tonatiuh yxiuh v1.md) which throws out the brightness of gold, the herb [tlanexti-yxiuh](Tlanextia-yxiuh.md), tetlahuitl and white earth that is to be sifted with river water; to these add the flowers [cacalo-xochitl](Cacalo-xochitl.md), [cacaua-xochitl](Cacaua-xochitl.md) and [tzacouh-xochitl](Tzacouh-xochitl.md); he should also have a poultice which you must prepare with the blood of a wolf and a fox, a worm, the blood and excrement of the acuecue-yalotl, laurel, swallow’s excrement ground upon water, and sea foam. One frightened by a thunderbolt or lightning is to be anointed by a liquor made from the struck tree, and the crushed leaves and all plants which grew near the place. But let the water used for sifting the unguent be of bitter flavor.  
+[https://archive.org/details/aztec-herbal-of-1552/page/97](https://archive.org/details/aztec-herbal-of-1552/page/97)  
+
