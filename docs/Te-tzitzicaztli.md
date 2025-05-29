@@ -1,0 +1,6 @@
+Variants: te-tzitzicaztli  
+
+## Subchapter 9k  
+**Disease of the joints.** Against articular pain, prepare a plaster from [quauh-tzitzicaztli](Quauh-tzitzicaztli.md), [te-tzitzicaztli](Te-tzitzicaztli.md), [colo-tzitzicaztli](Colo-tzitzicaztli.md), [patlahuac tzitzicaztli](Patlahuac tzitzicaztli.md)and the [xiuh-tlemaitl](Xiuh-tlemaitl.md), which are herbs; also the many-footed serpentlike scorpion, all which are to be crushed in water and boiled. Further, a part with contracting stiffness is to be punctured with eagle’s or lion’s bone, and then anointed with the above plaster and honey. If the arthritic sufferer is moderately vexed by pain, it is necessary to puncture some part.  
+[https://archive.org/details/aztec-herbal-of-1552/page/85](https://archive.org/details/aztec-herbal-of-1552/page/85)  
+
