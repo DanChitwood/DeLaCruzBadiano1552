@@ -1,6 +1,0 @@
-**Gout.** One with gout can be cured in this way: the bush [piltzin-tecouh-xochitl](Piltzinte-couh-xochitl.md), the leaves of the cypress and laurel, are thrown in an ants’ ditch where ants go to and fro, or are sprinkled as a lotion. Then the leaves of the bush [quappo-quietl](Quappo-quietl.md), leaves and bark of the [ayauh-quahuitl](Ayauh-quahuitl.md), leaves of the [quetzal-mizquitl](Quetzal-misquitl.md), tla-que quetzal and [tepe-chian](Tepe-chian.md), the flowers of any plant, a small white or red stone, the plant called [itzquin-patli](Itzquin-patli.md), pine, an oyster shell ground up in hare’s blood, small foxes, serpentine rabbits (? for burrowing moles), [eca-cohuatl](eca-cohuatl.md), lizards; pearl, greenstone and bloodstone are to be ground up in water. If the foot is troubled with much heat, let it be soaked in the cold liquor; if it is chilled over the instep, it is to be heated. To the above named you also add a yellow-colored flint, and the flesh and excrement of a fox, which you must burn to a crisp.  
-[https://archive.org/details/aztec-herbal-of-1552/page/62](https://archive.org/details/aztec-herbal-of-1552/page/62)  
-
-
-![M_p062.png](assets/M_p062.png)  
-Leaf traces by: Mariana Ruíz Amaro, UNAM ENES León, México  
