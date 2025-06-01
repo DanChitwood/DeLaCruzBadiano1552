@@ -74,8 +74,8 @@ theme:
 
 # Page tree
 nav:
-  - Welcome | Bienvenid@: 
-    - Welcome | Bienvenid@: index.md
+  - Welcome | Bienvenid@ | Ximopanōltih: 
+    - Welcome | Bienvenid@ | Ximopanōltih: index.md
   - Chapters:
     - Chapter 1: 
       - "Opening": 1.md
@@ -201,7 +201,7 @@ nav:
     - Chapter 13:
       - "Opening": 13.md
       - "Subchapter 13a": 13a.md
-  - Plants with illustrations:
+  - Illustrations:
     - A-camallo-tetl v1: A-camallo-tetl v1.md
     - A-chilli: A-chilli.md
     - A-toch-ietl: A-toch-ietl.md
@@ -321,7 +321,7 @@ nav:
     - Yollo-xochitl: Yollo-xochitl.md
     - Zaca-matlalin: Zaca-matlalin.md
     - Zozoyatic: Zozoyatic.md
-  - Plants without illustrations:
+  - Plants:
     - A-illin: A-illin.md
     - A-quahuitl: A-quahuitl.md
     - A-xocotl: A-xocotl.md
