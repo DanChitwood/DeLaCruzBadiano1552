@@ -1,0 +1,12 @@
+
+=== "English :flag_us:"
+    **Rectal swellings.** Oak-bark, that of the [huitz-quahuitl](Huitz-quahuitl.md) and of the [capolla-xipe-hualli](Capolla-xipehualli.md) and [tlaco-xilo-xochitl](Tlaco-xilo-xochitl.md) are macerated. With these is mixed the [tlapal-achiyotl](Tlapal-achiyotl.md) and the salve called in our language the [holli](Holli.md), the gall of a crow, root of the almond, bark of the [izqui-xochitl](Izqui-xochitl.md), leaves and bark of the texcal-amatl chichic. A potion is prepared from salt, nitre and ashes, which is to be heated or rather boiled. Bread soaked with honey is brought gently touching the swelling. If this ailment starts at the buttocks, well heated water should be injected in the anus, and it should also be bathed in [teo-amatl](Teo-amatl.md) bark with honey. This then done, let the part affected by the swelling be frequently soaked with the juice of the [yamanqui-patli](Yamanqui patli.md). The [tlal-quequetzal](Tlal-quequetzal.md) plant is to be crushed in hot water and the broth drunk.  
+    [https://archive.org/details/aztec-herbal-of-1552/page/78](https://archive.org/details/aztec-herbal-of-1552/page/78)  
+
+
+=== "Español :flag_mx:"
+    **Hinchazones rectales.** Se maceran cortezas de encino, del [huitz-quahuitl](Huitz-quahuitl.md) y del [capolla-xipe-hualli](Capolla-xipehualli.md) y [tlaco-xilo-xochitl](Tlaco-xilo-xochitl.md). A ellas se les mezcla el [tlapal-achiyotl](Tlapal-achiyotl.md) y el ungüento llamado en nuestra lengua [holli](Holli.md), la bilis de cuervo, raíz de almendra, corteza del [izqui-xochitl](Izqui-xochitl.md), hojas y corteza del texcal-amatl chichic. Se prepara una poción con sal, salitre y ceniza, que debe calentarse o mejor aún hervirse. Se lleva pan empapado en miel y se aplica con suavidad sobre la hinchazón. Si este mal comienza en los glúteos, se debe inyectar agua bien caliente en el ano, y también debe bañarse con corteza de [teo-amatl](Teo-amatl.md) y miel. Hecho esto, la parte afectada por la hinchazón debe mojarse con frecuencia con el jugo del [yamanqui-patli](Yamanqui patli.md). La planta [tlal-quequetzal](Tlal-quequetzal.md) debe machacarse en agua caliente y beberse el caldo.  
+
+
+![K_p078.png](assets/K_p078.png)  
+Leaf traces by: Kylie DeViller, Acadia University, Canada  
