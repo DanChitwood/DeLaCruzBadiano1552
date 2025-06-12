@@ -1,0 +1,316 @@
+ID,official_name,type,text_subchapters,illustrations,synonyms,morphemes,Label
+ID001,Aca-capac-quilitl,plant,09e,p079_01,acacapac-quilitl; acapac-quilitl,Quilitl/edible green; Acatl/reed; Capa/strong or thick,Acatl/reed
+ID002,Acatl,plant,,p079_04,,Acatl/reed,Acatl/reed
+ID005,Acxoyatl,plant,10b,p095_02,,Acatl/reed; Xoyatl/branch/twig,Acatl/reed
+ID091,Chicom-acatl,plant,09f,,chicom-catl,Chicome/seven; Acatl/reed,Acatl/reed
+ID302,acatzanatl,bird,09b,,,Acatl/reed; zanatl/water,Acatl/reed
+ID054,Iztauyattl,plant,06i; 08e; 08j; 08k; 09e; 09q; 10i,,iztauh-yatl; iztauh-yattl; iztauhyatl; iztauhyauh,Iztac/white; Ayatl/willow or reed,Acatl/reed
+ID174,Texcal-ama-coztli,plant,,p068_03,texcalama-coztli,Texcal/stone house or cliff; Ama/paper; Coztli/yellow,Amatl/paper
+ID089,Chichic texcal-amatl,plant,,p078_01,,Chichic/spicy or bitter; Texcal/stone house or cliff; Amatl/paper,Amatl/paper
+ID155,Teo-amatl,plant,09c; 09d; 09h,,,Teo/divine; Amatl/paper,Amatl/paper
+ID192,Tlaco-amatl,plant,07k,,tlacomatl,Tlaco/half or middle; Amatl/paper,Amatl/paper
+ID150,Te-amoxtli,plant,01a; 05d; 05e; 08b; 08g; 09f; 09p; 09q; 12b,p007_03; p029_02,,Te/stone; Amoxtli/book or codex,Amatl/paper
+ID228,A-tzitzicaztli,plant,,p026_01,,A/water; Tzitzicaztli/buzzing insect or cicada,Atl/water
+ID265,A-camallo-tetl v1,plant,12a,p113_01,a-camallo-tetl,A/water; camallo/grouper or sea fish; tetl/stone,Atl/water
+ID279,a-camallo-tetl v2,stone,05e; 07d; 09e; 12a,,a-camallo-tetl; a-camollotetl,A/water; camallo/grouper or sea fish; tetl/stone,Atl/water
+ID003,A-chilli,plant,08j,p065_02,,Atl/water; Chilli/chili,Atl/water
+ID004,Acoco-xihuitl,plant,10a,p094_02,a-cocohtli,Xihuitl/herb or; Atl/water; Cocotl/bird of prey,Atl/water
+ID014,A-quahuitl,plant,06d; 09g; 09i,,,Quahuitl/tree or wood; Atl/water,Atl/water
+ID015,A-toch-ietl,plant,04a,p024_02,,Atl/water; Toch/fire; -ietl/process or state,Atl/water
+ID016,Atoya-xocotl,plant,01d; 10k,,,Atl/water; Toya/flowing or spring; Xocotl/sour fruit,Atl/water
+ID017,A-xocotl,plant,08l; 09f; 10k,,,Atl/water; Xocotl/sour fruit,Atl/water
+ID020,A-yecotli,plant,,p050_01,,Atl/water; Yecotl/mucilage or slime,Atl/water
+ID021,A-illin,plant,08l,,a-ylin,Atl/water; Illin/leaf or foliage,Atl/water
+ID026,A-zaca-tzontli,plant,,p079_02,,Atl/water; Zaca/grass; Tzontli/stone or rock,Atl/water
+ID270,atzitzicuilotl,animal,01c,,,Atl/water; tzitzicuilotl/water,Atl/water
+ID018,Ayauh-quahuitl,plant,08f; 08l; 09f; 09q,p091_01,,Ayauh/mist or fog; Quahuitl/tree or wood,Ayauh/mist or fog
+ID019,Ayauhtli,plant,07b,,,Ayauh/mist or fog; -tli/noun suffix,Ayauh/mist or fog
+ID185,Ayauh-tonan-yxiuh,plant,10f,p099_03,ayauh tonan,Ayauh/mist or fog; Tonan/our mother goddess; Yxiuh/herb or turquoise,Ayauh/mist or fog
+ID068,Centzon-xochitl,plant,09b; 09f; 11c,p074_01,centzon xochitl,Centzon/four hundred or many; Xochitl/flower,Centzon/four hundred or many
+ID069,Centzon-oco-xochitl,plant,09e,,,Centzon/four hundred or many; Oco/pointed; Xochitl/flower,Centzon/four hundred or many
+ID089,Chichic texcal-amatl,plant,,p078_01,,Chichic/spicy or bitter; Texcal/stone house or cliff; Amatl/paper,Chichic/bitter
+ID261,Chichic-xihuitl,plant,07m,,,Chichic/spicy or bitter; Xihuitl/herb or,Chichic/bitter
+ID090,Chichiltic xiuhtontli,plant,11e,,,Chichiltic/red; Xihuitl/herb or; Tontli/diminutive suffix,Chichiltic/red
+ID277,chichiltic tapachtli,stone,05c; 05h; 07c,,,Chichiltic/red; tapachtli/mat or pad,Chichiltic/red
+ID003,A-chilli,plant,08j,p065_02,,Atl/water; Chilli/chili,Chilli/chile
+ID273,chilmolli,other,02b,,,Chilli/chili; molli/sauce,Chilli/chile
+ID078,Cococ-xihuitl,plant,07i,,cococ-xiuhuitl,Cococ/hot or spicy; Xihuitl/herb or,Cococ/hot or spicy
+ID237,Tzopelica-cococ,plant,06b,,,Tzopelica/sweet; Cococ/hot or spicy,Cococ/hot or spicy
+ID082,Copaliyac-xiuhtontli,plant,07i; 07m,,,Copalli/incense or copal; Yac/fragrant or scented; Xihuitl/herb or; Tontli/diminutive suffix,Copalli/incense
+ID083,Copal-quahuitl,plant,01d,,,Copalli/incense or copal; Quahuitl/tree or wood,Copalli/incense
+ID084,Copal-xocotl,plant,10k,,,Copalli/incense or copal; Xocotl/sour fruit,Copalli/incense
+ID227,Tzihuac-copalli,plant,09l,,,Tzihuac/resinous or aged; Copalli/incense or copal,Copalli/incense
+ID085,Coyo-xihuitl,plant,08g; 08j; 09e; 09g; 09l,p061_01,coyo-xihuitl tlaztalehualtic,Coyotl/coyote; Xihuitl/herb or,Coyotl/coyote
+ID294,coyotl,animal,08l,,,Coyotl/coyote,Coyotl/coyote
+ID028,Eca-patli,plant,01a; 05h; 06d; 06e; 08j; 08k; 08l; 09b; 09p; 10b; 10f; 12a,p007_01; p065_01,xiuh-ecapatli,Eca/slippery or slimy; Patli/medicine,Ecatl/wind
+ID193,Tlaco-ecapatli,plant,09l,,tlaco-eca-patli,Tlaco/half or middle; Ecapatl/air medicine or wind medicine,Ecatl/wind
+ID200,Tlal-ecapatli,plant,08j; 09e; 09q,,,Tlal/earth or ground; Ecapatl/air medicine or wind medicine,Ecatl/wind
+ID283,eca-cohuatl,animal,08f,,,Ecatl/wind or breath; cohuatl/snake,Ecatl/wind
+ID030,Elo-xochitl,plant,08l,p069_08,,Elo/fresh ear of corn; Xochitl/flower,Elotl/fresh maize ear
+ID031,Xiuh-elo-quilitl,plant,11c,p108_01,xiuh-eloquilitl,Xihuitl/herb or; Elo/fresh ear of corn; Quilitl/edible green,Elotl/fresh maize ear
+ID032,Elo-zacatl,plant,07l; 11d,,,Elo/fresh ear of corn; Zacatl/grass or hay,Elotl/fresh maize ear
+ID268,eztetl,stone,01a; 03a; 05d; 08d; 08j; 08k; 08l; 09e; 09f; 10e; 11a; 11b; 11c; 13a,,ez-tetl,Eztli/blood; tetl/stone,Eztli/blood
+ID077,Huihuitzyo-cochiz-xihuitl,plant,02g,p020_02,,Huihuitz/thorny or spiky; Yotl/essence or heart; Cochiz/asleep or dormant; Xihuitl/herb or,Huitz/needle or thorn
+ID101,Huihuitz-mallotic,plant,07j; 08c,,huitz-mallotic,Huihuitz/thorny or spiky; Mallotic/slimy or sticky,Huitz/needle or thorn
+ID036,Iztac huitz-quahuitl,plant,11c,p109_01,,Iztac/white; Huitz/needle or thorn; Quahuitl/tree or wood,Huitz/needle or thorn
+ID037,Huitz-quahuitl,plant,08l; 09d,p068_07,,Huitz/needle or thorn; Quahuitl/tree or wood,Huitz/needle or thorn
+ID100,Huitz-colotli,plant,05h,p033_02,huitz-colo-xochitl; huitz-colohtli,Huitz/needle or thorn; Colotli/scorpion,Huitz/needle or thorn
+ID103,Huitz-quilitl,plant,01d; 09e; 09p,p010_02,,Huitz/needle or thorn; Quilitl/edible green,Huitz/needle or thorn
+ID104,Quauhtla huitz-quilitl,plant,07m; 09a,p073_01,,Quauhtla/forest or woodland; Huitz/needle or thorn; Quilitl/edible green,Huitz/needle or thorn
+ID105,Huitzihtzil-xochitl,plant,08k; 12a,p066_01,huitzihtzil xochitl; huitzitzil-xochitl,Huitzihtzil/hummingbird; Xochitl/flower,Huitzihtzil/colibri
+ID137,Quauh-huitzihtzil-xochitl,plant,,p069_07,quah-huitzihtzil xochitl,Quauh/tree or wood; Huitzihtzil/hummingbird; Xochitl/flower,Huitzihtzil/colibri
+ID305,huitzitzilin,bird,09e,,,Huitzitzilin/hummingbird,Huitzihtzil/colibri
+ID036,Iztac huitz-quahuitl,plant,11c,p109_01,,Iztac/white; Huitz/needle or thorn; Quahuitl/tree or wood,Iztac/white
+ID039,Iztac-patli,plant,04b,p025_01,iztac patli,Iztac/white; Patli/medicine,Iztac/white
+ID040,Iztac-quahuitl,plant,,p068_05,iztac quahuitl,Iztac/white; Quahuitl/tree or wood,Iztac/white
+ID041,Teo-iztaquilitl,plant,05f; 07b; 07h; 09b; 09e,p031_01; p051_01,chichiltic teo-iztaquilitl tlalli; teo-iztac-quilitl; teo-iztacuilitl,Teotl/divine or sacred; Iztac/white; Quilitl/edible green,Iztac/white
+ID049,Iztac oco-xochitl,plant,01a; 07l; 08e; 09b; 09e; 09q,p007_02,iztac ocoxochitl; iztac-oco-xochitl; oco-xochitl,Iztac/white; Oco/pointed; Xochitl/flower,Iztac/white
+ID054,Iztauyattl,plant,06i; 08e; 08j; 08k; 09e; 09q; 10i,,iztauh-yatl; iztauh-yattl; iztauhyatl; iztauhyauh,Iztac/white; Ayatl/willow or reed,Iztac/white
+ID267,iztac tlalli,stone,01a,,,Iztac/white; tlalli/earth or land,Iztac/white
+ID276,iztac-quetzaliztli,stone,05c,,,Iztac/white; quetzaliztli/preciousness or beauty,Iztac/white
+ID290,quetzal-iztli,stone,08l,,,Quetzal/precious or feathered; iztli/obsidian or blade,Iztli/obsidian or blade
+ID113,Meca-xochitl,plant,08l; 10k,p104_01,,Meca/cord or rope; Xochitl/flower,"Mecatl/cord, rope, or vine"
+ID079,Colo-mecatl,plant,09c,p077_01,,Colotl/scorpion or twist; Mecatl/cord or vine,"Mecatl/cord, rope, or vine"
+ID117,Michi-huauhtli,plant,12a,,,Michi/fish; Huauhtli/amaranth,Michi/fish
+ID147,Quetzal-misquitl,plant,08f; 09m,,quetzal-mizquitl,Quetzal/precious or feathered; Misquitl/mesquite,Misquitl/mesquite
+ID118,Mizquitl,plant,02b,,,Mizquitl/mesquite,Misquitl/mesquite
+ID202,Tlal-mizquitl,plant,06e; 12a,,,Tlal/earth or ground; Mizquitl/mesquite,Misquitl/mesquite
+ID273,chilmolli,other,02b,,,Chilli/chili; molli/sauce,Molli/sauce
+ID122,Nocheztli,plant,06c,,,Nocheztli/prickly pear juice or red dye,Nochtli/prickly pear
+ID123,Nochtli,plant,11a,,,Nochtli/prickly pear,Nochtli/prickly pear
+ID124,Teo-nochtli,plant,05c,p028_01,,Teo/divine; Nochtli/prickly pear,Nochtli/prickly pear
+ID125,Tlaloc-nochtli,plant,,p090_01,,Tlaloc/rain god; Nochtli/prickly pear,Nochtli/prickly pear
+ID301,noch-tototl,bird,09b; 09e; 13a,,noch-totl,Nochtli/prickly pear; tototl/bird,Nochtli/prickly pear
+ID127,Nopalli,plant,09p,,nohpalli,Nopalli/prickly pear cactus pad,Nopalli/nopal
+ID171,Tetzmi-nopalli,plant,05g,,,Tetzmi/spur or spine; Nopalli/prickly pear cactus pad,Nopalli/nopal
+ID048,Oco-xochitl,plant,02b; 10f,,,Oco/pointed; Xochitl/flower,Ocotl/pine
+ID049,Iztac oco-xochitl,plant,01a; 07l; 08e; 09b; 09e; 09q,p007_02,iztac ocoxochitl; iztac-oco-xochitl; oco-xochitl,Iztac/white; Oco/pointed; Xochitl/flower,Ocotl/pine
+ID069,Centzon-oco-xochitl,plant,09e,,,Centzon/four hundred or many; Oco/pointed; Xochitl/flower,Ocotl/pine
+ID047,Ocotl,plant,08l,,,Ocotl/pine,Ocotl/pine
+ID288,ocotochtli,animal,08l,,,Ocotl/pine; tochtli/rabbit,Ocotl/pine
+ID278,xochi-ocotzotl,other,05c; 06a; 08j; 09q; 10k,,xochi-oco-tzotl,Xochitl/flower; ocotzotl/pinecone,Ocotl/pine
+ID128,Papalo-quilitl,plant,06a; 07b; 09q; 10f,,,Papalo/butterfly; Quilitl/edible green,Papalo/butterfly
+ID161,Tepe-papalo-quilitl,plant,,p103_01,tepe-papalo quilitl,Tepe/hill or mountain; Papalo/butterfly; Quilitl/edible green,Papalo/butterfly
+ID180,Tol-patlactli,plant,05d; 09e,p029_03,tol-patlctli,Tol/lip or border; Patlactli/medicine,Patli/medicine
+ID028,Eca-patli,plant,01a; 05h; 06d; 06e; 08j; 08k; 08l; 09b; 09p; 10b; 10f; 12a,p007_01; p065_01,xiuh-ecapatli,Eca/slippery or slimy; Patli/medicine,Patli/medicine
+ID033,Ez-patli,plant,,p033_01,,Ez/slippery or slimy; Patli/medicine,Patli/medicine
+ID039,Iztac-patli,plant,04b,p025_01,iztac patli,Iztac/white; Patli/medicine,Patli/medicine
+ID045,Itzquin-patli,plant,07b; 08f; 08j; 08k,,itzcuin-patli; itzcuinpatli,Itzquin/black obsidian or dark; Patli/medicine,Patli/medicine
+ID052,Yamanqui patli,plant,09d,,yamanqui-patli,Yamanqui/poisonous or harmful; Patli/medicine,Patli/medicine
+ID070,Cihua-patli,plant,11a,p106_02,,Cihua/woman or female; Patli/medicine,Patli/medicine
+ID087,Cuecuetz-patli,plant,09h,,,Cuecuetz/hunchbacked or twisted; Patli/medicine,Patli/medicine
+ID097,Huelic-patli,plant,07n,,,Huelic/tasty or pleasant; Patli/medicine,Patli/medicine
+ID139,Quauh-patli,plant,09m,,,Quauh/tree or wood; Patli/medicine,Patli/medicine
+ID148,Quetzal-xoxouca-patli,plant,08j,,quetzal-xoxouhca-patli,Quetzal/precious or feathered; Xoxouca/sour or acidic; Patli/medicine,Patli/medicine
+ID149,Quetzal-xoxouhca-patli tzotzotlani,plant,08j,,tzotzotlani,Quetzal/precious or feathered; Xoxouhca/greenish-blue place or sourness; Patli/medicine; Tzotzotlani/bubbling or gurgling,Patli/medicine
+ID176,Tezon-patli,plant,01d,p010_01,,Tezon/boiling or bubbling; Patli/medicine,Patli/medicine
+ID203,Tlal-patli,plant,09m,,,Tlal/earth or ground; Patli/medicine,Patli/medicine
+ID221,Tlazol-patli,plant,02g; 09b,p020_01,azcapan-ixua-tlazol-patli,"Tlazol/filth, sin, or fertility; Patli/medicine",Patli/medicine
+ID235,Tzonpilihuiz-patli,plant,06h,,,Tzon/hair; Pilihuiz/fine or soft; Patli/medicine,Patli/medicine
+ID245,Xiuh-patli,plant,11c,p067_09,xiuh pahtli; xiuhpatli,Xiuh/herb or turquoise; Patli/medicine,Patli/medicine
+ID252,xoxouhca-patli,plant,03a; 06i; 08g,p022_02; p063_01,quetzal-xoxouhqui; xoxouhqui-patli,Xoxouhca/greenish-blue place or sourness; Patli/medicine,Patli/medicine
+ID014,A-quahuitl,plant,06d; 09g; 09i,,,Quahuitl/tree or wood; Atl/water,Quahuitl/tree or wood
+ID018,Ayauh-quahuitl,plant,08f; 08l; 09f; 09q,p091_01,,Ayauh/mist or fog; Quahuitl/tree or wood,Quahuitl/tree or wood
+ID036,Iztac huitz-quahuitl,plant,11c,p109_01,,Iztac/white; Huitz/needle or thorn; Quahuitl/tree or wood,Quahuitl/tree or wood
+ID037,Huitz-quahuitl,plant,08l; 09d,p068_07,,Huitz/needle or thorn; Quahuitl/tree or wood,Quahuitl/tree or wood
+ID040,Iztac-quahuitl,plant,,p068_05,iztac quahuitl,Iztac/white; Quahuitl/tree or wood,Quahuitl/tree or wood
+ID083,Copal-quahuitl,plant,01d,,,Copalli/incense or copal; Quahuitl/tree or wood,Quahuitl/tree or wood
+ID152,Temahuitztih-quahuitl,plant,,p068_01; p069_06,temahuiztih quahuitl,Temahuitztih/to descend or rain; Quahuitl/tree or wood,Quahuitl/tree or wood
+ID158,Te-papa-quilti-quahuitl,plant,,p069_05,te-papaquilti quahuitl,Te/stone; Papa/flat; Quilti/to twist; Quahuitl/tree or wood,Quahuitl/tree or wood
+ID197,Tla-cuilol-quahuitl,plant,,p069_01,tlah-cuilol quahuitl,"Tla/thing or something; Cuilol/scroll, writing, or painting; Quahuitl/tree or wood",Quahuitl/tree or wood
+ID209,Tlanextia quahuitl,plant,07l; 09b,p069_03,tlanexti-quahuitl; tlanextia-quahuitl,Tlanextia/to shine or give light; Quahuitl/tree or wood,Quahuitl/tree or wood
+ID262,Xococ quahuitl,plant,,p069_04,,Xococ/sour; Quahuitl/tree or wood,Quahuitl/tree or wood
+ID264,tepaquilti quahuitl,plant,09q,,,Tepaquilti/medicine that causes vomiting or sweat; Quahuitl/tree or wood,Quahuitl/tree or wood
+ID104,Quauhtla huitz-quilitl,plant,07m; 09a,p073_01,,Quauhtla/forest or woodland; Huitz/needle or thorn; Quilitl/edible green,Quahuitl/tree or wood
+ID142,Quauhtla xoxocoyolin,plant,,p032_01,,Quauhtla/forest or woodland; Xoxocoyolin/sour fruit or tart thing,Quahuitl/tree or wood
+ID251,Quauhtla xoxocoyolin,plant,,p009_01,quauhtla-xoxocoyolin,Quauhtla/forest or woodland; Xoxocoyolin/sour fruit or tart thing,Quahuitl/tree or wood
+ID044,Quauh-izqui-xochitl,plant,09c,,,Quauh/tree or wood; Izqui/black or dark; Xochitl/flower,Quahuitl/tree or wood
+ID056,Quauh-yyauhtli,plant,08j; 08l; 09l; 09q; 10b; 10j; 11d,p091_02,qauh-yyauhtli; yyauhtli,Quauh/tree or wood; Yauhtli/medicinal or marigold-like,Quahuitl/tree or wood
+ID134,Quauh-alahuac,plant,11a; 11c,p106_01,,Quauh/tree or wood; Alahuac/water,Quahuitl/tree or wood
+ID135,Quauh-yayahual,plant,09g; 10b,p095_01,quauh yayahual,Quauh/tree or wood; Yayahual/round or circular,Quahuitl/tree or wood
+ID137,Quauh-huitzihtzil-xochitl,plant,,p069_07,quah-huitzihtzil xochitl,Quauh/tree or wood; Huitzihtzil/hummingbird; Xochitl/flower,Quahuitl/tree or wood
+ID139,Quauh-patli,plant,09m,,,Quauh/tree or wood; Patli/medicine,Quahuitl/tree or wood
+ID140,Quauh-tzitzicaztli,plant,09k,,,Quauh/tree or wood; Tzitzicaztli/buzzing insect or cicada,Quahuitl/tree or wood
+ID141,Quauh-xiyotl,plant,09g,,,Quauh/tree or wood; Xiyotl/resin or sap,Quahuitl/tree or wood
+ID204,Tlal-quequetzal,plant,06d; 09d,,,Tlal/earth or ground; Quequetzal/may refer to a precious or adorned thing,"Quetzal/precious, feathered, or green"
+ID024,Quetzal-ylin,plant,07k; 07l; 08l; 09i; 09m; 13a,p069_10,quetzal ylin,Quetzal/precious or feathered; Ylin/leaf or foliage,"Quetzal/precious, feathered, or green"
+ID143,Quetzal-ahuexotl,plant,11a,p106_03,a-huexotl; quetzal ahuexotl,Quetzal/precious or feathered; Ahuexotl/ahuehuete cypress,"Quetzal/precious, feathered, or green"
+ID145,Quetzal-atzonyatl,plant,10a,p094_01,quetzal-atzo-yatl; quetzal-hatzonyatl,Quetzal/precious or feathered; Atzonyatl/rivulet or stream,"Quetzal/precious, feathered, or green"
+ID147,Quetzal-misquitl,plant,08f; 09m,,quetzal-mizquitl,Quetzal/precious or feathered; Misquitl/mesquite,"Quetzal/precious, feathered, or green"
+ID148,Quetzal-xoxouca-patli,plant,08j,,quetzal-xoxouhca-patli,Quetzal/precious or feathered; Xoxouca/sour or acidic; Patli/medicine,"Quetzal/precious, feathered, or green"
+ID149,Quetzal-xoxouhca-patli tzotzotlani,plant,08j,,tzotzotlani,Quetzal/precious or feathered; Xoxouhca/greenish-blue place or sourness; Patli/medicine; Tzotzotlani/bubbling or gurgling,"Quetzal/precious, feathered, or green"
+ID290,quetzal-iztli,stone,08l,,,Quetzal/precious or feathered; iztli/obsidian or blade,"Quetzal/precious, feathered, or green"
+ID001,Aca-capac-quilitl,plant,09e,p079_01,acacapac-quilitl; acapac-quilitl,Quilitl/edible green; Acatl/reed; Capa/strong or thick,Quilitl/edible green
+ID031,Xiuh-elo-quilitl,plant,11c,p108_01,xiuh-eloquilitl,Xihuitl/herb or; Elo/fresh ear of corn; Quilitl/edible green,Quilitl/edible green
+ID041,Teo-iztaquilitl,plant,05f; 07b; 07h; 09b; 09e,p031_01; p051_01,chichiltic teo-iztaquilitl tlalli; teo-iztac-quilitl; teo-iztacuilitl,Teotl/divine or sacred; Iztac/white; Quilitl/edible green,Quilitl/edible green
+ID103,Huitz-quilitl,plant,01d; 09e; 09p,p010_02,,Huitz/needle or thorn; Quilitl/edible green,Quilitl/edible green
+ID104,Quauhtla huitz-quilitl,plant,07m; 09a,p073_01,,Quauhtla/forest or woodland; Huitz/needle or thorn; Quilitl/edible green,Quilitl/edible green
+ID116,Mexix-quilitl,plant,06a,,,Mexix/may relate to mexica; Quilitl/edible green,Quilitl/edible green
+ID128,Papalo-quilitl,plant,06a; 07b; 09q; 10f,,,Papalo/butterfly; Quilitl/edible green,Quilitl/edible green
+ID161,Tepe-papalo-quilitl,plant,,p103_01,tepe-papalo quilitl,Tepe/hill or mountain; Papalo/butterfly; Quilitl/edible green,Quilitl/edible green
+ID226,Tzayanal-quilitl,plant,09e,p079_03,,Tzayanal/uncertain possibly scattered or branched; Quilitl/edible green,Quilitl/edible green
+ID053,Te-xochitl yamanqui,plant,,p064_01,,Te/stone; Xochitl/flower; Yamanqui/poisonous or harmful,Te/stone
+ID150,Te-amoxtli,plant,01a; 05d; 05e; 08b; 08g; 09f; 09p; 09q; 12b,p007_03; p029_02,,Te/stone; Amoxtli/book or codex,Te/stone
+ID154,Te-memetla,plant,06c,,tememetla,Te/stone; Memetla/lumps or nodes,Te/stone
+ID158,Te-papa-quilti-quahuitl,plant,,p069_05,te-papaquilti quahuitl,Te/stone; Papa/flat; Quilti/to twist; Quahuitl/tree or wood,Te/stone
+ID165,Te-tzapotl,plant,08a; 08b,,,Te/stone; Tzapotl/soft fruit,Te/stone
+ID166,Te-tzitzicaztli,plant,09k,,,Te/stone; Tzitzicaztli/buzzing insect or cicada,Te/stone
+ID167,Te-tzitzilin,plant,10a,p094_03,te-tzilin,Te/stone; Tzitzilin/small bird or finch,Te/stone
+ID168,Te-xiyotl,plant,06c; 09p,,,Te/stone; Xiyotl/resin or sap,Te/stone
+ID269,te-mamatlatzin,stone,01a,,,Te/stone; mamatlatzin/cloth bundle or revered bundle,Te/stone
+ID282,te-xoxoctli,stone,08a,,,Te/stone; xoxoctli/sourness or tart item,Te/stone
+ID271,avat-tecolotl,animal,01e,,,Avat/parrot; tecolotl/owl,Tecolotl/owl
+ID124,Teo-nochtli,plant,05c,p028_01,,Teo/divine; Nochtli/prickly pear,Teo/divine
+ID155,Teo-amatl,plant,09c; 09d; 09h,,,Teo/divine; Amatl/paper,Teo/divine
+ID157,Teo-xihuitl v1,plant,07c,,teo-xihuitl,Teo/divine; Xihuitl/herb or,Teo/divine
+ID222,Tlazol-teo-zacatl,plant,09b; 09f,p080_01,tlazo-teo-zacatl; tlazolco-zacatl,"Tlazol/filth, sin, or fertility; Teo/divine; Zacatl/grass or hay",Teo/divine
+ID035,Teo-ezquahuitl,plant,,p068_06,teo-ez-quahuitl,Teotl/divine or sacred; Ezquahuitl/slender or sapling,Teo/divine
+ID041,Teo-iztaquilitl,plant,05f; 07b; 07h; 09b; 09e,p031_01; p051_01,chichiltic teo-iztaquilitl tlalli; teo-iztac-quilitl; teo-iztacuilitl,Teotl/divine or sacred; Iztac/white; Quilitl/edible green,Teo/divine
+ID280,teo-xihuitl v2,stone,05h,,teo-xihuitl,Teotl/divine or sacred; xihuitl/turquoise or,Teo/divine
+ID023,Tepe-ylin,plant,08l,,,Tepe/hill or mountain; Ylin/leaf or foliage,Tepe/hill or mountain
+ID160,Tepe-chian,plant,08e; 08f; 08g; 08j; 09b; 09g,,,Tepe/hill or mountain; Chian/chia,Tepe/hill or mountain
+ID161,Tepe-papalo-quilitl,plant,,p103_01,tepe-papalo quilitl,Tepe/hill or mountain; Papalo/butterfly; Quilitl/edible green,Tepe/hill or mountain
+ID266,tetlahuitl v2,stone,01a; 03a; 07c; 08j; 08k; 08l; 09f; 10e; 11c,,tetlahuital; tetlahuitl,Tetl/stone; lahuitl/ointment or pigment,Tetl/stone
+ID304,texalli,stone,09b,,,Tetl/stone; xalli/sand,Tetl/stone
+ID265,A-camallo-tetl v1,plant,12a,p113_01,a-camallo-tetl,A/water; camallo/grouper or sea fish; tetl/stone,Tetl/stone
+ID268,eztetl,stone,01a; 03a; 05d; 08d; 08j; 08k; 08l; 09e; 09f; 10e; 11a; 11b; 11c; 13a,,ez-tetl,Eztli/blood; tetl/stone,Tetl/stone
+ID279,a-camallo-tetl v2,stone,05e; 07d; 09e; 12a,,a-camallo-tetl; a-camollotetl,A/water; camallo/grouper or sea fish; tetl/stone,Tetl/stone
+ID089,Chichic texcal-amatl,plant,,p078_01,,Chichic/spicy or bitter; Texcal/stone house or cliff; Amatl/paper,Texcal/stone or cliff
+ID174,Texcal-ama-coztli,plant,,p068_03,texcalama-coztli,Texcal/stone house or cliff; Ama/paper; Coztli/yellow,Texcal/stone or cliff
+ID197,Tla-cuilol-quahuitl,plant,,p069_01,tlah-cuilol quahuitl,"Tla/thing or something; Cuilol/scroll, writing, or painting; Quahuitl/tree or wood",Tla/thing or something
+ID205,Tla-nen-popoloua,plant,09l,,tlanen-popoloa,Tla/thing or something; Nen/useless or vain; Popoloua/to rot or decompose,Tla/thing or something
+ID220,Tla-yapaloni,plant,01b; 09f; 09n; 12a,p008_02,tlayapaloni,Tla/thing or something; Yapaloni/to turn or twist,Tla/thing or something
+ID310,tlaquatzin,animal,11a,,,Tla-/prefix; quatzin/sacred or revered,Tla/thing or something
+ID190,Tlaca-camotli,plant,07d; 09e,,,Tlaca/person or man; Camotli/sweet potato,Tlacatl/person
+ID272,tlacal-huatzin,stone,01f; 02b; 03a; 07b; 08j; 08k; 08l; 09e; 10e; 13a,,tlaca-huatzin; tlacahuatzin; tlacalhuatzin,Tlacatl/person or man; huatzin/splashing or diving bird,Tlacatl/person
+ID297,tlacahuilotl,bird,09b,,,Tlacatl/person or man; huilotl/duck,Tlacatl/person
+ID043,Tlaco-izqui-xochitl,plant,05e; 08d; 08l,,,Tlaco/half or middle; Izqui/black or dark; Xochitl/flower,Tlaco/half or middle
+ID192,Tlaco-amatl,plant,07k,,tlacomatl,Tlaco/half or middle; Amatl/paper,Tlaco/half or middle
+ID193,Tlaco-ecapatli,plant,09l,,tlaco-eca-patli,Tlaco/half or middle; Ecapatl/air medicine or wind medicine,Tlaco/half or middle
+ID194,Tlaco-izqui-xochitl,plant,02b,,,Tlaco/half or middle; Izqui/black or dark; Xochitl/flower,Tlaco/half or middle
+ID195,Tlaco-popotli,plant,11c,p108_02,tlaco-popotl; tlaco-poptl,Tlaco/half or middle; Popotli/smoke,Tlaco/half or middle
+ID196,Tlaco-xilo-xochitl,plant,05h; 06b; 09d,,,Tlaco/half or middle; Xilo/tender or young; Xochitl/flower,Tlaco/half or middle
+ID289,tlaco-ocelotl,animal,08l,,,Tlaco/half or middle; ocelotl/jaguar,Tlaco/half or middle
+ID061,Tlal-cacapol,plant,09m,,,Tlal/earth or ground; Cacapol/leaf or foliage,Tlal/earth or ground
+ID096,Tlal-huaxin,plant,08a,,,Tlal/earth or ground; Huaxin/gourd or squash,Tlal/earth or ground
+ID198,Tlal-ahuehuetl,plant,01b; 09j; 09m; 09n; 12a,,,Tlal/earth or ground; Ahuehuetl/montezuma cypress,Tlal/earth or ground
+ID200,Tlal-ecapatli,plant,08j; 09e; 09q,,,Tlal/earth or ground; Ecapatl/air medicine or wind medicine,Tlal/earth or ground
+ID202,Tlal-mizquitl,plant,06e; 12a,,,Tlal/earth or ground; Mizquitl/mesquite,Tlal/earth or ground
+ID203,Tlal-patli,plant,09m,,,Tlal/earth or ground; Patli/medicine,Tlal/earth or ground
+ID204,Tlal-quequetzal,plant,06d; 09d,,,Tlal/earth or ground; Quequetzal/may refer to a precious or adorned thing,Tlal/earth or ground
+ID267,iztac tlalli,stone,01a,,,Iztac/white; tlalli/earth or land,Tlalli/land
+ID207,Tlanextia-yxiuh,plant,09h; 10d,,tlanexti-yxiuh,Tlanextia/to shine or give light; Yxiuh/herb or turquoise,Tlanextia/to shine light
+ID208,Tlanextia xiuhtontli,plant,05d; 05f; 05i; 07l; 07m; 11a,p029_01,tlanexti; tlanexti-xiuhtontli; tlanextia,Tlanextia/to shine or give light; Xiuhtontli/little or small,Tlanextia/to shine light
+ID209,Tlanextia quahuitl,plant,07l; 09b,p069_03,tlanexti-quahuitl; tlanextia-quahuitl,Tlanextia/to shine or give light; Quahuitl/tree or wood,Tlanextia/to shine light
+ID221,Tlazol-patli,plant,02g; 09b,p020_01,azcapan-ixua-tlazol-patli,"Tlazol/filth, sin, or fertility; Patli/medicine",Tlazol/filth
+ID222,Tlazol-teo-zacatl,plant,09b; 09f,p080_01,tlazo-teo-zacatl; tlazolco-zacatl,"Tlazol/filth, sin, or fertility; Teo/divine; Zacatl/grass or hay",Tlazol/filth
+ID240,Xal-tomatl,plant,05e; 09e; 11a,p014_01,,Xal/sand; Tomatl/tomato,Tomatl/tomato
+ID183,Tonal-xochitl,plant,,p067_06,tonal xochitl,Tonal/sun or heat; Xochitl/flower,Tonalco/sun or heat
+ID184,Xiuhuitl tonalco-mochiva hahuachcho,plant,,p012_01,,Xiuhuitl/herb or year; Tonalco/in the sun or heat; Mochiva/it becomes; Hahuachcho/uncertain or onomatopoeic,Tonalco/sun or heat
+ID257,Tonatiuh yxiuh v1,plant,06f; 06g; 08e; 09b; 09e; 09h; 09o; 10d; 13a,,tonatiuh yxiuh; tonatiuh-yxiuh,Tonatiuh/sun; Yxiuh/herb or turquoise,Tonatiuh/sun
+ID258,Tonatiuh yxiuh v2,plant,07h,p051_02,tonatiuh yxiuh pepetlaca; tonatiuh-yxiuh,Tonatiuh/sun; Yxiuh/herb or turquoise,Tonatiuh/sun
+ID299,tototl,bird,09b,,,Tototl/bird,Tototl/bird
+ID274,molo-tototl,bird,02b,,,Molo/tangled or mashed; tototl/bird,Tototl/bird
+ID298,xiuh-quechol-tototl,bird,09b; 10e; 13a,,quechol-tototl; xiuhquechol-tototl,Xiuh/herb or turquoise; quechol/roseate spoonbill; tototl/bird,Tototl/bird
+ID300,tlapal-tototl,bird,09b; 10e; 13a,,tlapa-tototl; tlpal-tototl,Tlapalli/pigment or color; tototl/bird,Tototl/bird
+ID301,noch-tototl,bird,09b; 09e; 13a,,noch-totl,Nochtli/prickly pear; tototl/bird,Tototl/bird
+ID234,Tzon-pachtzin,plant,09b,,tzom-pachtin,Tzon/hair; Pachtzin/diminutive of pachtli hay or straw,Tzon/hair
+ID235,Tzonpilihuiz-patli,plant,06h,,,Tzon/hair; Pilihuiz/fine or soft; Patli/medicine,Tzon/hair
+ID236,Tzon-pilihuiz-xihuitl,plant,04a; 07g,p024_01,tzonpilihuiz xihuitl; tzonpilihuiz-xihuitl,Tzon/hair; Pilihuiz/fine or soft; Xihuitl/herb or,Tzon/hair
+ID026,A-zaca-tzontli,plant,,p079_02,,Atl/water; Zaca/grass; Tzontli/stone or rock,Tzon/hair
+ID240,Xal-tomatl,plant,05e; 09e; 11a,p014_01,,Xal/sand; Tomatl/tomato,Xal/sand
+ID304,texalli,stone,09b,,,Tetl/stone; xalli/sand,Xal/sand
+ID004,Acoco-xihuitl,plant,10a,p094_02,a-cocohtli,Xihuitl/herb or; Atl/water; Cocotl/bird of prey,"Xihuitl/herbs, green leaves"
+ID009,Ahuiyac-xihuitl,plant,08k; 11b,p107_01,hayuiyac xihuitl,Ahuiyak/odorous; Xihuitl/herb or,"Xihuitl/herbs, green leaves"
+ID012,Xiuh-amolli,plant,01e,p011_01,,Xihuitl/herb or; Amolli/gourd or vessel,"Xihuitl/herbs, green leaves"
+ID031,Xiuh-elo-quilitl,plant,11c,p108_01,xiuh-eloquilitl,Xihuitl/herb or; Elo/fresh ear of corn; Quilitl/edible green,"Xihuitl/herbs, green leaves"
+ID066,Capul-xihuitl,plant,07k,,,Capul/cherry or small fruit; Xihuitl/herb or,"Xihuitl/herbs, green leaves"
+ID076,Cochiz-xihuitl,plant,02g,p020_03,,Cochiz/asleep or dormant; Xihuitl/herb or,"Xihuitl/herbs, green leaves"
+ID077,Huihuitzyo-cochiz-xihuitl,plant,02g,p020_02,,Huihuitz/thorny or spiky; Yotl/essence or heart; Cochiz/asleep or dormant; Xihuitl/herb or,"Xihuitl/herbs, green leaves"
+ID078,Cococ-xihuitl,plant,07i,,cococ-xiuhuitl,Cococ/hot or spicy; Xihuitl/herb or,"Xihuitl/herbs, green leaves"
+ID082,Copaliyac-xiuhtontli,plant,07i; 07m,,,Copalli/incense or copal; Yac/fragrant or scented; Xihuitl/herb or; Tontli/diminutive suffix,"Xihuitl/herbs, green leaves"
+ID085,Coyo-xihuitl,plant,08g; 08j; 09e; 09g; 09l,p061_01,coyo-xihuitl tlaztalehualtic,Coyotl/coyote; Xihuitl/herb or,"Xihuitl/herbs, green leaves"
+ID090,Chichiltic xiuhtontli,plant,11e,,,Chichiltic/red; Xihuitl/herb or; Tontli/diminutive suffix,"Xihuitl/herbs, green leaves"
+ID092,Chipauac xihuitl,plant,01b,p008_01,chipauac,Chipauac/clean or pure; Xihuitl/herb or,"Xihuitl/herbs, green leaves"
+ID093,Chiyava xihuitl,plant,10g,p100_01,chiyava-xihuitl,"Chiyava/to open, sprout; Xihuitl/herb or","Xihuitl/herbs, green leaves"
+ID157,Teo-xihuitl v1,plant,07c,,teo-xihuitl,Teo/divine; Xihuitl/herb or,"Xihuitl/herbs, green leaves"
+ID177,Tohmiyo-xihuitl,plant,,p111_01,tohmiyo xihuitl,Tohmiyo/possibly pulque; Xihuitl/herb or,"Xihuitl/herbs, green leaves"
+ID178,Tolohua xihuitl,plant,03a; 06f; 06g; 07e; 08a; 08i; 08j; 09n,p049_01,tolohua; tolohua-xihuitl; tolova; tolova xihuitl; tolova-xihuitl,Tolohua/to roll or wrap; Xihuitl/herb or,"Xihuitl/herbs, green leaves"
+ID236,Tzon-pilihuiz-xihuitl,plant,04a; 07g,p024_01,tzonpilihuiz xihuitl; tzonpilihuiz-xihuitl,Tzon/hair; Pilihuiz/fine or soft; Xihuitl/herb or,"Xihuitl/herbs, green leaves"
+ID238,Tzotzoca-xihuitl,plant,,p096_01,tzotzoca xihuitl,Tzotzoca/mossy or downy; Xihuitl/herb or,"Xihuitl/herbs, green leaves"
+ID242,Xe-xihuitl,plant,08j,,,Xe/dry or brittle; Xihuitl/herb or,"Xihuitl/herbs, green leaves"
+ID261,Chichic-xihuitl,plant,07m,,,Chichic/spicy or bitter; Xihuitl/herb or,"Xihuitl/herbs, green leaves"
+ID263,teco-xochiti-xihuitl,plant,09b,,,Teco/ash or burnt; Xochitl/flower; Xihuitl/herb or,"Xihuitl/herbs, green leaves"
+ID280,teo-xihuitl v2,stone,05h,,teo-xihuitl,Teotl/divine or sacred; xihuitl/turquoise or,"Xihuitl/herbs, green leaves"
+ID245,Xiuh-patli,plant,11c,p067_09,xiuh pahtli; xiuhpatli,Xiuh/herb or turquoise; Patli/medicine,"Xihuitl/herbs, green leaves"
+ID246,Xiuh-tlemaitl,plant,09k,,,Xiuh/herb or turquoise; Tlemaitl/fire-hand or fireholder,"Xihuitl/herbs, green leaves"
+ID247,Xiuhtontli,plant,05h; 07i; 08a; 08h; 09f,,xiuh-tontli,Xiuh/herb or turquoise; -tontli/diminutive,"Xihuitl/herbs, green leaves"
+ID281,xiuh-tomolli,stone,07d; 07h; 09b,,,Xiuh/herb or turquoise; tomolli/rolled or bundle,"Xihuitl/herbs, green leaves"
+ID298,xiuh-quechol-tototl,bird,09b; 10e; 13a,,quechol-tototl; xiuhquechol-tototl,Xiuh/herb or turquoise; quechol/roseate spoonbill; tototl/bird,"Xihuitl/herbs, green leaves"
+ID114,Memeya xiuhtontli,plant,,p111_02,memeya xihuitl,Memeya/wrinkled or shriveled; Xiuhtontli/little or small,"Xihuitl/herbs, green leaves"
+ID132,Pozahualiz-xiuhtontli,plant,11d,p110_01,,Pozahualiz/misted or steamed; Xiuhtontli/little or small,"Xihuitl/herbs, green leaves"
+ID159,Tepa-quilti xiuhtontli,plant,,p067_04,tepaquilti xiuhtontli,Tepa/to peel or flay; Quilti/to twist; Xiuhtontli/little or small,"Xihuitl/herbs, green leaves"
+ID208,Tlanextia xiuhtontli,plant,05d; 05f; 05i; 07l; 07m; 11a,p029_01,tlanexti; tlanexti-xiuhtontli; tlanextia,Tlanextia/to shine or give light; Xiuhtontli/little or small,"Xihuitl/herbs, green leaves"
+ID184,Xiuhuitl tonalco-mochiva hahuachcho,plant,,p012_01,,Xiuhuitl/herb or year; Tonalco/in the sun or heat; Mochiva/it becomes; Hahuachcho/uncertain or onomatopoeic,"Xihuitl/herbs, green leaves"
+ID185,Ayauh-tonan-yxiuh,plant,10f,p099_03,ayauh tonan,Ayauh/mist or fog; Tonan/our mother goddess; Yxiuh/herb or turquoise,"Xihuitl/herbs, green leaves"
+ID188,Totec-yxiuh,plant,,p110_03,,Totec/our lord; Yxiuh/herb or turquoise,"Xihuitl/herbs, green leaves"
+ID207,Tlanextia-yxiuh,plant,09h; 10d,,tlanexti-yxiuh,Tlanextia/to shine or give light; Yxiuh/herb or turquoise,"Xihuitl/herbs, green leaves"
+ID257,Tonatiuh yxiuh v1,plant,06f; 06g; 08e; 09b; 09e; 09h; 09o; 10d; 13a,,tonatiuh yxiuh; tonatiuh-yxiuh,Tonatiuh/sun; Yxiuh/herb or turquoise,"Xihuitl/herbs, green leaves"
+ID258,Tonatiuh yxiuh v2,plant,07h,p051_02,tonatiuh yxiuh pepetlaca; tonatiuh-yxiuh,Tonatiuh/sun; Yxiuh/herb or turquoise,"Xihuitl/herbs, green leaves"
+ID141,Quauh-xiyotl,plant,09g,,,Quauh/tree or wood; Xiyotl/resin or sap,Xiyotl/young maize ear
+ID168,Te-xiyotl,plant,06c; 09p,,,Te/stone; Xiyotl/resin or sap,Xiyotl/young maize ear
+ID030,Elo-xochitl,plant,08l,p069_08,,Elo/fresh ear of corn; Xochitl/flower,Xochitl/flower
+ID042,Izqui-xochitl,plant,08l; 09d; 09f,p069_09,,Izqui/black or dark; Xochitl/flower,Xochitl/flower
+ID043,Tlaco-izqui-xochitl,plant,05e; 08d; 08l,,,Tlaco/half or middle; Izqui/black or dark; Xochitl/flower,Xochitl/flower
+ID044,Quauh-izqui-xochitl,plant,09c,,,Quauh/tree or wood; Izqui/black or dark; Xochitl/flower,Xochitl/flower
+ID048,Oco-xochitl,plant,02b; 10f,,,Oco/pointed; Xochitl/flower,Xochitl/flower
+ID049,Iztac oco-xochitl,plant,01a; 07l; 08e; 09b; 09e; 09q,p007_02,iztac ocoxochitl; iztac-oco-xochitl; oco-xochitl,Iztac/white; Oco/pointed; Xochitl/flower,Xochitl/flower
+ID053,Te-xochitl yamanqui,plant,,p064_01,,Te/stone; Xochitl/flower; Yamanqui/poisonous or harmful,Xochitl/flower
+ID058,Yollo-xochitl,plant,08c; 08d; 10e; 10k,p098_02,,Yollo/heart; Xochitl/flower,Xochitl/flower
+ID060,Cacalo-xochitl,plant,08l; 09g; 10d,p097_01,,Cacalo/green or fresh; Xochitl/flower,Xochitl/flower
+ID062,Cacaua-xochitl,plant,08j; 10d; 10e,p098_01,cacau-xochitl,Cacaua/bitter or harsh; Xochitl/flower,Xochitl/flower
+ID068,Centzon-xochitl,plant,09b; 09f; 11c,p074_01,centzon xochitl,Centzon/four hundred or many; Xochitl/flower,Xochitl/flower
+ID069,Centzon-oco-xochitl,plant,09e,,,Centzon/four hundred or many; Oco/pointed; Xochitl/flower,Xochitl/flower
+ID074,Cohua-xochitl,plant,09e,,,Cohua/owner or possessor; Xochitl/flower,Xochitl/flower
+ID094,Huacal-xochitl,plant,02b; 05e; 07b; 08l; 10k,p030_01,huacal xochitl,Huacal/container or box; Xochitl/flower,Xochitl/flower
+ID098,Huetzcani xochitl,plant,,p067_11,,Huetzcani/thin or spindly; Xochitl/flower,Xochitl/flower
+ID105,Huitzihtzil-xochitl,plant,08k; 12a,p066_01,huitzihtzil xochitl; huitzitzil-xochitl,Huitzihtzil/hummingbird; Xochitl/flower,Xochitl/flower
+ID106,Macpal-xochitl,plant,08a,,,Macpal/hand or palm; Xochitl/flower,Xochitl/flower
+ID110,Matlal-xochitl,plant,02b,p014_02,,Matlal/blue-green or dark green; Xochitl/flower,Xochitl/flower
+ID113,Meca-xochitl,plant,08l; 10k,p104_01,,Meca/cord or rope; Xochitl/flower,Xochitl/flower
+ID119,Mocuepani-xochitl,plant,,p067_05,mocuepani xochitl,Mocuepani/to be turned or reversed; Xochitl/flower,Xochitl/flower
+ID120,Necouh xochitl,plant,,p097_02,,Necouh/scented or aromatic; Xochitl/flower,Xochitl/flower
+ID131,Piltzinte-couh-xochitl,plant,08f; 08j,p062_01; p067_02,piltzin-tecouh-xochitl; pilzinte-couh xochitl chiyaua,Piltzinte/young or noble child; Couh/yellow or gold; Xochitl/flower,Xochitl/flower
+ID137,Quauh-huitzihtzil-xochitl,plant,,p069_07,quah-huitzihtzil xochitl,Quauh/tree or wood; Huitzihtzil/hummingbird; Xochitl/flower,Xochitl/flower
+ID173,Tetzmi-xochitl,plant,01d; 08d,,,Tetzmi/spur or spine; Xochitl/flower,Xochitl/flower
+ID182,Tonaca-xochitl,plant,10f,p099_02,tonaca xochitl,Tonaca/flesh or nourishment; Xochitl/flower,Xochitl/flower
+ID183,Tonal-xochitl,plant,,p067_06,tonal xochitl,Tonal/sun or heat; Xochitl/flower,Xochitl/flower
+ID186,Totonqui xochitl,plant,,p067_01; p067_07,,Totonqui/hot or warm; Xochitl/flower,Xochitl/flower
+ID194,Tlaco-izqui-xochitl,plant,02b,,,Tlaco/half or middle; Izqui/black or dark; Xochitl/flower,Xochitl/flower
+ID196,Tlaco-xilo-xochitl,plant,05h; 06b; 09d,,,Tlaco/half or middle; Xilo/tender or young; Xochitl/flower,Xochitl/flower
+ID224,Tlil-xochitl,plant,10k,p104_02,,Tlil/black or dark; Xochitl/flower,Xochitl/flower
+ID225,Tzacouh-xochitl,plant,10d,,,Tzacouh/hard or dry; Xochitl/flower,Xochitl/flower
+ID243,Xilo-xochitl,plant,09m,,,Xilo/tender or young; Xochitl/flower,Xochitl/flower
+ID263,teco-xochiti-xihuitl,plant,09b,,,Teco/ash or burnt; Xochitl/flower; Xihuitl/herb or,Xochitl/flower
+ID278,xochi-ocotzotl,other,05c; 06a; 08j; 09q; 10k,,xochi-oco-tzotl,Xochitl/flower; ocotzotl/pinecone,Xochitl/flower
+ID262,Xococ quahuitl,plant,,p069_04,,Xococ/sour; Quahuitl/tree or wood,Xocotl/sour fruit
+ID016,Atoya-xocotl,plant,01d; 10k,,,Atl/water; Toya/flowing or spring; Xocotl/sour fruit,Xocotl/sour fruit
+ID017,A-xocotl,plant,08l; 09f; 10k,,,Atl/water; Xocotl/sour fruit,Xocotl/sour fruit
+ID075,Cohua-xocotl,plant,,p068_04,coa-xocotl,Cohua/owner or possessor; Xocotl/sour fruit,Xocotl/sour fruit
+ID084,Copal-xocotl,plant,10k,,,Copalli/incense or copal; Xocotl/sour fruit,Xocotl/sour fruit
+ID241,Xa-xocotl,plant,07k; 09e,,,Xa/possibly intensifying; Xocotl/sour fruit,Xocotl/sour fruit
+ID142,Quauhtla xoxocoyolin,plant,,p032_01,,Quauhtla/forest or woodland; Xoxocoyolin/sour fruit or tart thing,Xocotl/sour fruit
+ID250,Ohua-xoxocoyolin,plant,07j; 08c; 09h,p017_01,ohua-xocoyolin,Ohua/morning or dew; Xoxocoyolin/sour fruit or tart thing,Xocotl/sour fruit
+ID251,Quauhtla xoxocoyolin,plant,,p009_01,quauhtla-xoxocoyolin,Quauhtla/forest or woodland; Xoxocoyolin/sour fruit or tart thing,Xocotl/sour fruit
+ID282,te-xoxoctli,stone,08a,,,Te/stone; xoxoctli/sourness or tart item,Xocotl/sour fruit
+ID148,Quetzal-xoxouca-patli,plant,08j,,quetzal-xoxouhca-patli,Quetzal/precious or feathered; Xoxouca/sour or acidic; Patli/medicine,Xocotl/sour fruit
+ID149,Quetzal-xoxouhca-patli tzotzotlani,plant,08j,,tzotzotlani,Quetzal/precious or feathered; Xoxouhca/greenish-blue place or sourness; Patli/medicine; Tzotzotlani/bubbling or gurgling,Xocotl/sour fruit
+ID252,xoxouhca-patli,plant,03a; 06i; 08g,p022_02; p063_01,quetzal-xoxouhqui; xoxouhqui-patli,Xoxouhca/greenish-blue place or sourness; Patli/medicine,Xocotl/sour fruit
+ID253,xoxouhqui-itzli,plant,07h,,,Xoxouhqui/greenish-blue; Itzli/obsidian or blade,Xocotl/sour fruit
+ID055,Y-yauhtli,plant,06a,,yyauhtli,Y/vegetative prefix; Yauhtli/medicinal or marigold-like,Yauhtli/medicinal marigold
+ID056,Quauh-yyauhtli,plant,08j; 08l; 09l; 09q; 10b; 10j; 11d,p091_02,qauh-yyauhtli; yyauhtli,Quauh/tree or wood; Yauhtli/medicinal or marigold-like,Yauhtli/medicinal marigold
+ID026,A-zaca-tzontli,plant,,p079_02,,Atl/water; Zaca/grass; Tzontli/stone or rock,Zacatl/grass
+ID254,Zaca-matlalin,plant,09b; 09o,p089_01,zaca malalin,Zaca/grass; Matlalin/green or blue-green,Zacatl/grass
+ID032,Elo-zacatl,plant,07l; 11d,,,Elo/fresh ear of corn; Zacatl/grass or hay,Zacatl/grass
+ID164,Tequixqui-zacatl,plant,02f,p019_02,,Tequixqui/saline or salt-covered; Zacatl/grass or hay,Zacatl/grass
+ID222,Tlazol-teo-zacatl,plant,09b; 09f,p080_01,tlazo-teo-zacatl; tlazolco-zacatl,"Tlazol/filth, sin, or fertility; Teo/divine; Zacatl/grass or hay",Zacatl/grass
