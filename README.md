@@ -39,6 +39,7 @@ Botany, De la Cruz-Badiano Herbal, Indigenous knowledge, Libellus de Medicinalib
 | Precision (Spanish) |      0.68 |      0.68 |       0.68 |    0.68 |      0.68 |        0.68 |        0.68 |           0.68 |
 | Recall (Spanish)    |      0.56 |      0.56 |       0.56 |    0.56 |      0.56 |        0.56 |        0.56 |           0.56 |
 | F1 (Spanish)        |      0.56 |      0.56 |       0.56 |    0.56 |      0.56 |        0.56 |        0.56 |           0.56 |  
+
 **Table 1:** CNN performance for leaf shapes and English and Spanish text embeddings for the five indicated Nahuatl plant categories.
 
 ![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/fig_CNN_morpheme.png) 
