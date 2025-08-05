@@ -1,6 +1,6 @@
 # Beyond Leaf and Word: A Multimodal Analysis of Nahua Botanical Knowledge in the De la Cruz-Badiano Herbal
 
-**Summary**
+**Summary**  
 This study investigates the structure of Nahua botanical knowledge as captured in the 1552 De la Cruz-Badiano Herbal, a unique document preserving Indigenous plant names and illustrations. Our goal was to determine if and how different data modalities—linguistic, morphological, and structural—align in a shared conceptual space, providing quantitative insight into this understudied worldview.
 
 We employed a multi-modal approach, first creating a dataset with three aligned modalities: leaf shape morphometrics from hand-traced illustrations, text embeddings of corresponding English and Spanish texts, and node embeddings of a graph representing Nahuatl name co-occurrence. A three-tower CNN with a contrastive loss function was then trained to learn a common embedding space that minimized the distance between these modalities. Synthetic leaf data was used to augment the training set.
@@ -9,7 +9,7 @@ The model successfully learned a common embedding space for all three modalities
 
 Our results indicate a sophisticated Indigenous classification system where the structure of language and name relationships provides a primary framework for understanding plants, distinct from a purely morphological basis. This research highlights the value of using computational methods to re-examine historical documents, offering a path to decolonize plant science by quantifying the richness of Indigenous botanical knowledge.
 
-**Keywords**
+**Keywords**  
 Botany, De la Cruz-Badiano Herbal, Indigenous knowledge, Libellus de Medicinalibus Indorum Herbis, Multimodal learning, Nahuatl, Plant classification
 
 ## Code and data  
