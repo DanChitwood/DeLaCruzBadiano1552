@@ -12,6 +12,47 @@ Our results indicate a sophisticated Indigenous classification system where the 
 **Keywords**  
 Botany, De la Cruz-Badiano Herbal, Indigenous knowledge, Libellus de Medicinalibus Indorum Herbis, Multimodal learning, Nahuatl, Plant classification
 
+## Figures and tables  
+![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/fig_coincidence_graph.png)  
+
+![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/fig_combined_clustering_and_wordclouds_fasttext_umap_tficf.png)  
+
+![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/leaf_traces_1.png)
+
+![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/leaf_traces_2.png)
+
+![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/fig_ECT.png)  
+
+| Metric              |   Xihuitl |   Xochitl |   Quahuitl |   Patli |   Quilitl |   micro avg |   macro avg |   weighted avg |
+|:--------------------|----------:|----------:|-----------:|--------:|----------:|------------:|------------:|---------------:|
+| Precision (Leaves)  |      0.99 |      0.99 |       0.99 |    0.99 |      0.99 |        0.99 |        0.99 |           0.99 |
+| Recall (Leaves)     |      0.72 |      0.72 |       0.72 |    0.72 |      0.72 |        0.72 |        0.72 |           0.72 |
+| F1 (Leaves)         |      0.83 |      0.83 |       0.83 |    0.83 |      0.83 |        0.83 |        0.83 |           0.83 |
+| Precision (English) |      0.68 |      0.68 |       0.68 |    0.68 |      0.68 |        0.68 |        0.68 |           0.68 |
+| Recall (English)    |      0.61 |      0.61 |       0.61 |    0.61 |      0.61 |        0.61 |        0.61 |           0.61 |
+| F1 (English)        |      0.62 |      0.62 |       0.62 |    0.62 |      0.62 |        0.62 |        0.62 |           0.62 |
+| Precision (Spanish) |      0.68 |      0.68 |       0.68 |    0.68 |      0.68 |        0.68 |        0.68 |           0.68 |
+| Recall (Spanish)    |      0.56 |      0.56 |       0.56 |    0.56 |      0.56 |        0.56 |        0.56 |           0.56 |
+| F1 (Spanish)        |      0.56 |      0.56 |       0.56 |    0.56 |      0.56 |        0.56 |        0.56 |           0.56 |
+
+![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/fig_CNN_morpheme.png)  
+
+| Metric                      |   Image-to-Text |   Text-to-Image |   Image-to-Graph |   Graph-to-Image |   Text-to-Graph |   Graph-to-Text |
+|:----------------------------|----------------:|----------------:|-----------------:|-----------------:|----------------:|----------------:|
+| MAP avg.                    |          0.0512 |          0.0639 |           0.0504 |           0.0587 |          0.2529 |          0.2587 |
+| MAP std.                    |          0.0051 |          0.0058 |           0.0047 |           0.0047 |          0.0047 |          0.0018 |
+| Recall@1 score avg.         |          0.0161 |          0.0223 |           0.0139 |           0.0198 |          0.1025 |          0.1079 |
+| Recall@1 score std.         |          0.0024 |          0.0026 |           0.0014 |           0.0046 |          0.0034 |          0.002  |
+| Recall@1 above chance avg.  |         13      |         18      |          11.2    |          16      |         82.8    |         87.2    |
+| Recall@5 score avg.         |          0.0685 |          0.0866 |           0.0641 |           0.0792 |          0.4093 |          0.4113 |
+| Recall@5 score std.         |          0.0077 |          0.0086 |           0.009  |           0.0081 |          0.0075 |          0.0033 |
+| Recall@5 above chance avg.  |         11.08   |         14      |          10.36   |          12.8    |         66.16   |         66.48   |
+| Recall@10 score avg.        |          0.1247 |          0.1386 |           0.1096 |           0.1302 |          0.614  |          0.6088 |
+| Recall@10 score std.        |          0.0114 |          0.0129 |           0.0085 |           0.008  |          0.009  |          0.0032 |
+| Recall@10 above chance avg. |         10.08   |         11.2    |           8.86   |          10.52   |         49.62   |         49.2    |  
+
+![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/fig_three_towers.png)  
+
 ## Code and data  
 All scripts to reproduce these analyses are found in `./analysis/scripts/`. Data to reproduce these analyses are found in `./analysis/data/`. The folders `./analysis/data/leaf_traces/`, `./analysis/data/texts/`, and `./analysis/data/texts_ES/` (leaf trace data and English and Spanish texts, respectively) will need to be unzipped before using. The FastText English and Spanish models `cc.en.300.bin` and `cc.es.300.bin` will need to be downloaded from this [link](https://fasttext.cc/docs/en/crawl-vectors.html) and placed into `./analysis/data/`. The pages of the document from which leaf traces are derived and on which they are plotted are derived from the public version of [The De la Cruz-Badiano Aztec Herbal of 1552](https://archive.org/details/aztec-herbal-of-1552) and the exact images found on [figshare](https://doi.org/10.6084/m9.figshare.29825189.v1) should be downloaded, the .zip file decompressed, and saved as the folder `pics` in `./analysis/data/`.
 
