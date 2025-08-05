@@ -40,7 +40,7 @@ Botany, De la Cruz-Badiano Herbal, Indigenous knowledge, Libellus de Medicinalib
 | Recall (Spanish)    |      0.56 |      0.56 |       0.56 |    0.56 |      0.56 |        0.56 |        0.56 |           0.56 |
 | F1 (Spanish)        |      0.56 |      0.56 |       0.56 |    0.56 |      0.56 |        0.56 |        0.56 |           0.56 |  
 
-**Table 1:** CNN performance for leaf shapes and English and Spanish text embeddings for the five indicated Nahuatl plant categories.
+**Table 1:** Unimodal CNN performance for leaf shapes and English and Spanish text embeddings for the five indicated Nahuatl plant categories.
 
 ![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/fig_CNN_morpheme.png) 
 **Figure 6: Shape features and text distingishing Nahuatl plant groupings.** The three Nahuatl botanical classes (Xihuitl, Xochitl, Quahuitl, Patli, and Quilitl) by row and, left to right, Gradient-weighted Class Activation Mapping (GradCAM) and English and Spanish word clouds that characterize each class by column.  
@@ -59,7 +59,10 @@ Botany, De la Cruz-Badiano Herbal, Indigenous knowledge, Libellus de Medicinalib
 | Recall@10 score std.        |          0.0114 |          0.0129 |           0.0085 |           0.008  |          0.009  |          0.0032 |
 | Recall@10 above chance avg. |         10.08   |         11.2    |           8.86   |          10.52   |         49.62   |         49.2    |  
 
+**Table 2:** Multimodal Three Tower CNN performance for each pair and direction of modalities.  
+
 ![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/fig_three_towers.png)  
+**Figure 7: A common embedding space for image, text, and graph modalities.** A) Text, B) image, and C) graph embeddings each highlighted in turn in a UMAP of a common embedding space. D) For each pair of modalities, a histogram showing Euclidean distance between pairs in the UMAP projection.  
 
 ## Code and data  
 All scripts to reproduce these analyses are found in `./analysis/scripts/`. Data to reproduce these analyses are found in `./analysis/data/`. The folders `./analysis/data/leaf_traces/`, `./analysis/data/texts/`, and `./analysis/data/texts_ES/` (leaf trace data and English and Spanish texts, respectively) will need to be unzipped before using. The FastText English and Spanish models `cc.en.300.bin` and `cc.es.300.bin` will need to be downloaded from this [link](https://fasttext.cc/docs/en/crawl-vectors.html) and placed into `./analysis/data/`. The pages of the document from which leaf traces are derived and on which they are plotted are derived from the public version of [The De la Cruz-Badiano Aztec Herbal of 1552](https://archive.org/details/aztec-herbal-of-1552) and the exact images found on [figshare](https://doi.org/10.6084/m9.figshare.29825189.v1) should be downloaded, the .zip file decompressed, and saved as the folder `pics` in `./analysis/data/`.
