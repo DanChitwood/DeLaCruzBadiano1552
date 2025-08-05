@@ -19,9 +19,11 @@ Botany, De la Cruz-Badiano Herbal, Indigenous knowledge, Libellus de Medicinalib
 ![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/fig_combined_clustering_and_wordclouds_fasttext_umap_tficf.png)  
 **Figure 2: Clusters based on text embeddings.** UMAP of FastText embeddings in A) English and B) Spanish and word frequency clouds for five clusters (indciated by color).  
 
-![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/leaf_traces_1.png)
+![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/leaf_traces_1.png)  
+**Figure 3: Leaf traces projected on original illustrations.** Each leaf trace is indicated by color and plotted on top of the original image. Continued in the next figure.  
 
-![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/leaf_traces_2.png)
+![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/leaf_traces_2.png)  
+**Figure 4: Leaf traces projected on original illustrations.** Each leaf trace is indicated by color and plotted on top of the original image. Continued from the previous figure.  
 
 ![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/fig_ECT.png)  
 
