@@ -14,8 +14,10 @@ Botany, De la Cruz-Badiano Herbal, Indigenous knowledge, Libellus de Medicinalib
 
 ## Figures and tables  
 ![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/fig_coincidence_graph.png)  
+**Figure 1: Coincidence graph of Nahuatl names.** Vertices representing Nahuatl names connected by weighted edges based on coincidence in subchapters. Vertices are colored by type: green, plant; magenta, stone; lavender, bird; orange, animal. Only nodes with ten or more connections are shown for visualization purposes.  
 
 ![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/fig_combined_clustering_and_wordclouds_fasttext_umap_tficf.png)  
+**Figure 2: Clusters based on text embeddings.** UMAP of FastText embeddings in A) English and B) Spanish and word frequency clouds for five clusters (indciated by color).  
 
 ![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/leaf_traces_1.png)
 
