@@ -26,6 +26,7 @@ Botany, De la Cruz-Badiano Herbal, Indigenous knowledge, Libellus de Medicinalib
 **Figure 4: Leaf traces projected on original illustrations.** Each leaf trace is indicated by color and plotted on top of the original image. Continued from the previous figure.  
 
 ![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/fig_ECT.png)  
+**Figure 5: Radial Euler Characteristic Transform (ECT).** For random leaves from each indicated Nahuatl plant, the radial ECT aligned with the corresponding leaf shape outline. The radial ECT and shape mask for the leaf are the inputs for a 2-channel Convolutional Neural Network (CNN).  
 
 | Metric              |   Xihuitl |   Xochitl |   Quahuitl |   Patli |   Quilitl |   micro avg |   macro avg |   weighted avg |
 |:--------------------|----------:|----------:|-----------:|--------:|----------:|------------:|------------:|---------------:|
@@ -37,9 +38,11 @@ Botany, De la Cruz-Badiano Herbal, Indigenous knowledge, Libellus de Medicinalib
 | F1 (English)        |      0.62 |      0.62 |       0.62 |    0.62 |      0.62 |        0.62 |        0.62 |           0.62 |
 | Precision (Spanish) |      0.68 |      0.68 |       0.68 |    0.68 |      0.68 |        0.68 |        0.68 |           0.68 |
 | Recall (Spanish)    |      0.56 |      0.56 |       0.56 |    0.56 |      0.56 |        0.56 |        0.56 |           0.56 |
-| F1 (Spanish)        |      0.56 |      0.56 |       0.56 |    0.56 |      0.56 |        0.56 |        0.56 |           0.56 |
+| F1 (Spanish)        |      0.56 |      0.56 |       0.56 |    0.56 |      0.56 |        0.56 |        0.56 |           0.56 |  
+**Table 1:** CNN performance for leaf shapes and English and Spanish text embeddings for the five indicated Nahuatl plant categories.
 
-![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/fig_CNN_morpheme.png)  
+![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/fig_CNN_morpheme.png) 
+**Figure 6: Shape features and text distingishing Nahuatl plant groupings.** The three Nahuatl botanical classes (Xihuitl, Xochitl, Quahuitl, Patli, and Quilitl) by row and, left to right, Gradient-weighted Class Activation Mapping (GradCAM) and English and Spanish word clouds that characterize each class by column.  
 
 | Metric                      |   Image-to-Text |   Text-to-Image |   Image-to-Graph |   Graph-to-Image |   Text-to-Graph |   Graph-to-Text |
 |:----------------------------|----------------:|----------------:|-----------------:|-----------------:|----------------:|----------------:|
