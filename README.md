@@ -1,6 +1,16 @@
-# DeLaCruzBadiano1552
+# Beyond Leaf and Word: A Multimodal Analysis of Nahua Botanical Knowledge in the De la Cruz-Badiano Herbal
 
-Preliminary website for analysis of the de la Cruz-Badiano codex of 1552
+**Summary**
+This study investigates the structure of Nahua botanical knowledge as captured in the 1552 De la Cruz-Badiano Herbal, a unique document preserving Indigenous plant names and illustrations. Our goal was to determine if and how different data modalities—linguistic, morphological, and structural—align in a shared conceptual space, providing quantitative insight into this understudied worldview.
+
+We employed a multi-modal approach, first creating a dataset with three aligned modalities: leaf shape morphometrics from hand-traced illustrations, text embeddings of corresponding English and Spanish texts, and node embeddings of a graph representing Nahuatl name co-occurrence. A three-tower CNN with a contrastive loss function was then trained to learn a common embedding space that minimized the distance between these modalities. Synthetic leaf data was used to augment the training set.
+
+The model successfully learned a common embedding space for all three modalities. We found that the leaf shape data occupied a more distinct region of this space, while the linguistic and structural data were closely aligned. This suggests that the cultural and functional associations embedded in the Nahuatl names and texts are more strongly correlated with each other than with a plant's physical shape.
+
+Our results indicate a sophisticated Indigenous classification system where the structure of language and name relationships provides a primary framework for understanding plants, distinct from a purely morphological basis. This research highlights the value of using computational methods to re-examine historical documents, offering a path to decolonize plant science by quantifying the richness of Indigenous botanical knowledge.
+
+**Keywords**
+Botany, De la Cruz-Badiano Herbal, Indigenous knowledge, Libellus de Medicinalibus Indorum Herbis, Multimodal learning, Nahuatl, Plant classification
 
 ## Code and data  
 All scripts to reproduce these analyses are found in `./analysis/scripts/`. Data to reproduce these analyses are found in `./analysis/data/`. The folders `./analysis/data/leaf_traces/`, `./analysis/data/texts/`, and `./analysis/data/texts_ES/` (leaf trace data and English and Spanish texts, respectively) will need to be unzipped before using. The FastText English and Spanish models `cc.en.300.bin` and `cc.es.300.bin` will need to be downloaded from this [link](https://fasttext.cc/docs/en/crawl-vectors.html) and placed into `./analysis/data/`. The pages of the document from which leaf traces are derived and on which they are plotted are derived from the public version of [The De la Cruz-Badiano Aztec Herbal of 1552](https://archive.org/details/aztec-herbal-of-1552) and the exact images found on [figshare](https://doi.org/10.6084/m9.figshare.29825189.v1) should be downloaded, the .zip file decompressed, and saved as the folder `pics` in `./analysis/data/`.
