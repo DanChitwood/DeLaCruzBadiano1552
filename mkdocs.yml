@@ -1,0 +1,514 @@
+
+# Project information
+site_name: The De la Cruz-Badiano Nahuatl Herbal of 1552
+site_url: https://danchitwood.github.io/DeLaCruzBadiano1552/
+site_author: Dan Chitwood
+site_description: Analysis of the De la Cruz-Badiano Nahuatl Herbal of 1552
+
+# Repository
+repo_name: DanChitwood/DeLaCruzBadiano1552/
+repo_url: https://github.com/DanChitwood/DeLaCruzBadiano1552/
+
+# Copyright
+copyright: Copyright &copy; 2025 Dan Chitwood, Alejandra Rougon-Cardoso
+
+# Configuration
+theme:
+  name: material
+  features:
+    #- toc.integrate
+    - announce.dismiss
+    #- content.action.edit
+    #- content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    # - content.footnote.tooltips
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: pink
+      accent: deep orange
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: pink
+      accent: deep orange
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+
+  font:
+    text: Roboto
+    code: Red Hat Mono
+  logo: assets/icon.png
+  favicon: assets/icon.png
+  icon:
+    repo: fontawesome/brands/git-alt
+
+# Page tree
+nav:
+- Welcome | Bienvenid@ | Ximopanōltih:
+    - Welcome | Bienvenid@ | Ximopanōltih: index.md
+- Chapters:
+    - Chapter 1:
+      - "Opening": 1.md
+      - "Subchapter 1a✎": 1a_ill.md
+      - "Subchapter 1b✎": 1b_ill.md
+      - "Subchapter 1c✎": 1c_ill.md
+      - "Subchapter 1d✎": 1d_ill.md
+      - "Subchapter 1e✎": 1e_ill.md
+      - "Subchapter 1f✎": 1f_ill.md
+    - Chapter 2:
+      - "Opening": 2.md
+      - "Subchapter 2a": 2a.md
+      - "Subchapter 2b✎": 2b_ill.md
+      - "Subchapter 2c": 2c.md
+      - "Subchapter 2d✎": 2d_ill.md
+      - "Subchapter 2e✎": 2e_ill.md
+      - "Subchapter 2f✎": 2f_ill.md
+      - "Subchapter 2g✎": 2g_ill.md
+      - "Subchapter 2h": 2h.md
+    - Chapter 3:
+      - "Opening": 3.md
+      - "Subchapter 3a✎": 3a_ill.md
+    - Chapter 4:
+      - "Opening": 4.md
+      - "Subchapter 4a✎": 4a_ill.md
+      - "Subchapter 4b✎": 4b_ill.md
+      - "Subchapter 4c✎": 4c_ill.md
+    - Chapter 5:
+      - "Opening": 5.md
+      - "Subchapter 5a": 5a.md
+      - "Subchapter 5b": 5b.md
+      - "Subchapter 5c✎": 5c_ill.md
+      - "Subchapter 5d✎": 5d_ill.md
+      - "Subchapter 5e✎": 5e_ill.md
+      - "Subchapter 5f✎": 5f_ill.md
+      - "Subchapter 5g✎": 5g_ill.md
+      - "Subchapter 5h✎": 5h_ill.md
+      - "Subchapter 5i✎": 5i_ill.md
+    - Chapter 6:
+      - "Opening": 6.md
+      - "Subchapter 6a": 6a.md
+      - "Subchapter 6b": 6b.md
+      - "Subchapter 6c": 6c.md
+      - "Subchapter 6d": 6d.md
+      - "Subchapter 6e": 6e.md
+      - "Subchapter 6f": 6f.md
+      - "Subchapter 6g": 6g.md
+      - "Subchapter 6h": 6h.md
+      - "Subchapter 6i": 6i.md
+    - Chapter 7:
+      - "Opening": 7.md
+      - "Subchapter 7a": 7a.md
+      - "Subchapter 7b": 7b.md
+      - "Subchapter 7c": 7c.md
+      - "Subchapter 7d": 7d.md
+      - "Subchapter 7e✎": 7e_ill.md
+      - "Subchapter 7f✎": 7f_ill.md
+      - "Subchapter 7g✎": 7g_ill.md
+      - "Subchapter 7h✎": 7h_ill.md
+      - "Subchapter 7i": 7i.md
+      - "Subchapter 7j": 7j.md
+      - "Subchapter 7k": 7k.md
+      - "Subchapter 7l": 7l.md
+      - "Subchapter 7m": 7m.md
+      - "Subchapter 7n": 7n.md
+    - Chapter 8:
+      - "Opening": 8.md
+      - "Subchapter 8a": 8a.md
+      - "Subchapter 8b": 8b.md
+      - "Subchapter 8c": 8c.md
+      - "Subchapter 8d": 8d.md
+      - "Subchapter 8e✎": 8e_ill.md
+      - "Subchapter 8f✎": 8f_ill.md
+      - "Subchapter 8g✎": 8g_ill.md
+      - "Subchapter 8h✎": 8h_ill.md
+      - "Subchapter 8i✎": 8i_ill.md
+      - "Subchapter 8j✎": 8j_ill.md
+      - "Subchapter 8k✎": 8k_ill.md
+      - "Subchapter 8l": 8l.md
+    - Chapter 9:
+      - "Opening": 9.md
+      - "Subchapter 9a✎": 9a_ill.md
+      - "Subchapter 9b": 9b.md
+      - "Subchapter 9c✎": 9c_ill.md
+      - "Subchapter 9d✎": 9d_ill.md
+      - "Subchapter 9e✎": 9e_ill.md
+      - "Subchapter 9f✎": 9f_ill.md
+      - "Subchapter 9g": 9g.md
+      - "Subchapter 9h": 9h.md
+      - "Subchapter 9i": 9i.md
+      - "Subchapter 9j": 9j.md
+      - "Subchapter 9k": 9k.md
+      - "Subchapter 9l": 9l.md
+      - "Subchapter 9m": 9m.md
+      - "Subchapter 9n✎": 9n_ill.md
+      - "Subchapter 9o✎": 9o_ill.md
+      - "Subchapter 9p✎": 9p_ill.md
+      - "Subchapter 9q✎": 9q_ill.md
+    - Chapter 10:
+      - "Opening": 10.md
+      - "Subchapter 10a✎": 10a_ill.md
+      - "Subchapter 10b✎": 10b_ill.md
+      - "Subchapter 10c✎": 10c_ill.md
+      - "Subchapter 10d✎": 10d_ill.md
+      - "Subchapter 10e✎": 10e_ill.md
+      - "Subchapter 10f✎": 10f_ill.md
+      - "Subchapter 10g✎": 10g_ill.md
+      - "Subchapter 10h": 10h.md
+      - "Subchapter 10i✎": 10i_ill.md
+      - "Subchapter 10j✎": 10j_ill.md
+      - "Subchapter 10k✎": 10k_ill.md
+    - Chapter 11:
+      - "Opening": 11.md
+      - "Subchapter 11a✎": 11a_ill.md
+      - "Subchapter 11b✎": 11b_ill.md
+      - "Subchapter 11c✎": 11c_ill.md
+      - "Subchapter 11d✎": 11d_ill.md
+      - "Subchapter 11e✎": 11e_ill.md
+    - Chapter 12:
+      - "Opening": 12.md
+      - "Subchapter 12a✎": 12a_ill.md
+      - "Subchapter 12b": 12b.md
+    - Chapter 13:
+      - "Opening": 13.md
+      - "Subchapter 13a": 13a.md
+
+- Illustrations:
+    - A-camallo-tetl v1: A-camallo-tetl v1.md
+    - A-chilli: A-chilli.md
+    - A-quahuitl: A-quahuitl.md
+    - A-toch-ietl: A-toch-ietl.md
+    - A-tzitzicaztli: A-tzitzicaztli.md
+    - A-xocotl: A-xocotl.md
+    - A-yecotli: A-yecotli.md
+    - A-zaca-tzontli: A-zaca-tzontli.md
+    - Aca-capac-quilitl: Aca-capac-quilitl.md
+    - Acatl: Acatl.md
+    - Acoco-xihuitl: Acoco-xihuitl.md
+    - Acxoyatl: Acxoyatl.md
+    - Ahquiztli: Ahquiztli.md
+    - Ahuatl: Ahuatl.md
+    - Ahuiyac-xihuitl: Ahuiyac-xihuitl.md
+    - Ayauh-quahuitl: Ayauh-quahuitl.md
+    - Ayauh-tonan-yxiuh: Ayauh-tonan-yxiuh.md
+    - Ayo-nelhuatl: Ayo-nelhuatl.md
+    - Cacalo-xochitl: Cacalo-xochitl.md
+    - Cacaua-xochitl: Cacaua-xochitl.md
+    - Cecen-tlacol: Cecen-tlacol.md
+    - Centzon-xochitl: Centzon-xochitl.md
+    - Chichic texcal-amatl: Chichic texcal-amatl.md
+    - Chicom-acatl: Chicom-acatl.md
+    - Chipauac xihuitl: Chipauac xihuitl.md
+    - Chiyava xihuitl: Chiyava xihuitl.md
+    - Cihua-patli: Cihua-patli.md
+    - Cimatl: Cimatl.md
+    - Coanenepilli: Coanenepilli.md
+    - Cochiz-xihuitl: Cochiz-xihuitl.md
+    - Cohua-xocotl: Cohua-xocotl.md
+    - Colo-mecatl: Colo-mecatl.md
+    - Colo-tzitzicaztli: Colo-tzitzicaztli.md
+    - Coltotzin: Coltotzin.md
+    - Copaliyac-xiuhtontli: Copaliyac-xiuhtontli.md
+    - Coyo-xihuitl: Coyo-xihuitl.md
+    - Coz-canantzi: Coz-canantzi.md
+    - Cuecuetz-patli: Cuecuetz-patli.md
+    - Eca-patli: Eca-patli.md
+    - Elo-capolin: Elo-capolin.md
+    - Elo-xochitl: Elo-xochitl.md
+    - Elo-zacatl: Elo-zacatl.md
+    - Ez-patli: Ez-patli.md
+    - Huacal-xochitl: Huacal-xochitl.md
+    - Huelic-patli: Huelic-patli.md
+    - Huetzcani xochitl: Huetzcani xochitl.md
+    - Huihuitz-mallotic: Huihuitz-mallotic.md
+    - Huihuitzyo-cochiz-xihuitl: Huihuitzyo-cochiz-xihuitl.md
+    - Huitz-colotli: Huitz-colotli.md
+    - Huitz-quahuitl: Huitz-quahuitl.md
+    - Huitz-quilitl: Huitz-quilitl.md
+    - Huitzihtzil-xochitl: Huitzihtzil-xochitl.md
+    - Itzquin-patli: Itzquin-patli.md
+    - Izqui-xochitl: Izqui-xochitl.md
+    - Iztac huitz-quahuitl: Iztac huitz-quahuitl.md
+    - Iztac oco-xochitl: Iztac oco-xochitl.md
+    - Iztac-patli: Iztac-patli.md
+    - Iztac-quahuitl: Iztac-quahuitl.md
+    - Malinalli: Malinalli.md
+    - Mamaxtla: Mamaxtla.md
+    - Matlal-xochitl: Matlal-xochitl.md
+    - Maza-yelli: Maza-yelli.md
+    - Meca-xochitl: Meca-xochitl.md
+    - Memeya xiuhtontli: Memeya xiuhtontli.md
+    - Metzli-yzacauh: Metzli-yzacauh.md
+    - Mexix-quilitl: Mexix-quilitl.md
+    - Mocuepani-xochitl: Mocuepani-xochitl.md
+    - Necouh xochitl: Necouh xochitl.md
+    - Nexehuac: Nexehuac.md
+    - Nonochton azcapanixua: Nonochton azcapanixua.md
+    - Ohua-xoxocoyolin: Ohua-xoxocoyolin.md
+    - Papalo-quilitl: Papalo-quilitl.md
+    - Patlahuac tzitzicaztli: Patlahuac tzitzicaztli.md
+    - Piltzinte-couh-xochitl: Piltzinte-couh-xochitl.md
+    - Pozahualiz-xiuhtontli: Pozahualiz-xiuhtontli.md
+    - Quappo-quietl: Quappo-quietl.md
+    - Quauh-alahuac: Quauh-alahuac.md
+    - Quauh-huitzihtzil-xochitl: Quauh-huitzihtzil-xochitl.md
+    - Quauh-tzitzicaztli: Quauh-tzitzicaztli.md
+    - Quauh-yayahual: Quauh-yayahual.md
+    - Quauh-yyauhtli: Quauh-yyauhtli.md
+    - Quauhtla huitz-quilitl: Quauhtla huitz-quilitl.md
+    - Quauhtla xoxocoyolin: Quauhtla xoxocoyolin.md
+    - Quetzal-ahuexotl: Quetzal-ahuexotl.md
+    - Quetzal-atzonyatl: Quetzal-atzonyatl.md
+    - Quetzal-misquitl: Quetzal-misquitl.md
+    - Quetzal-xoxouca-patli: Quetzal-xoxouca-patli.md
+    - Quetzal-ylin: Quetzal-ylin.md
+    - Te-amoxtli: Te-amoxtli.md
+    - Te-memetla: Te-memetla.md
+    - Te-papa-quilti-quahuitl: Te-papa-quilti-quahuitl.md
+    - Te-tzapotl: Te-tzapotl.md
+    - Te-tzitzicaztli: Te-tzitzicaztli.md
+    - Te-tzitzilin: Te-tzitzilin.md
+    - Te-xiyotl: Te-xiyotl.md
+    - Te-xochitl yamanqui: Te-xochitl yamanqui.md
+    - Temahuitztih-quahuitl: Temahuitztih-quahuitl.md
+    - Teo-ezquahuitl: Teo-ezquahuitl.md
+    - Teo-iztaquilitl: Teo-iztaquilitl.md
+    - Teo-nochtli: Teo-nochtli.md
+    - Tepa-quilti xiuhtontli: Tepa-quilti xiuhtontli.md
+    - Tepe-papalo-quilitl: Tepe-papalo-quilitl.md
+    - Tequam-maitl: Tequam-maitl.md
+    - Tequixqui-zacatl: Tequixqui-zacatl.md
+    - Tetzmitl: Tetzmitl.md
+    - Texcal-ama-coztli: Texcal-ama-coztli.md
+    - Tezon-patli: Tezon-patli.md
+    - Tla-cuilol-quahuitl: Tla-cuilol-quahuitl.md
+    - Tla-nen-popoloua: Tla-nen-popoloua.md
+    - Tla-yapaloni: Tla-yapaloni.md
+    - Tlaca-camotli: Tlaca-camotli.md
+    - Tlaco-ecapatli: Tlaco-ecapatli.md
+    - Tlaco-izqui-xochitl: Tlaco-izqui-xochitl.md
+    - Tlaco-popotli: Tlaco-popotli.md
+    - Tlah-chinolpan-ixua xihuitl: Tlah-chinolpan-ixua xihuitl.md
+    - Tlal-ahuehuetl: Tlal-ahuehuetl.md
+    - Tlal-cacapol: Tlal-cacapol.md
+    - Tlal-huaxin: Tlal-huaxin.md
+    - Tlaloc-nochtli: Tlaloc-nochtli.md
+    - Tlanextia quahuitl: Tlanextia quahuitl.md
+    - Tlanextia xiuhtontli: Tlanextia xiuhtontli.md
+    - Tlapol-cacahuatl: Tlapol-cacahuatl.md
+    - Tlaquilin: Tlaquilin.md
+    - Tlatlacotic: Tlatlacotic.md
+    - Tlatlanquaye: Tlatlanquaye.md
+    - Tlatlaolton: Tlatlaolton.md
+    - Tlazol-patli: Tlazol-patli.md
+    - Tlazol-teo-zacatl: Tlazol-teo-zacatl.md
+    - Tlil-xochitl: Tlil-xochitl.md
+    - Tohmiyo-xihuitl: Tohmiyo-xihuitl.md
+    - Tol-patlactli: Tol-patlactli.md
+    - Tolohua xihuitl: Tolohua xihuitl.md
+    - Tomaz-quitl: Tomaz-quitl.md
+    - Tonaca-xochitl: Tonaca-xochitl.md
+    - Tonal-xochitl: Tonal-xochitl.md
+    - Tonatiuh yxiuh v1: Tonatiuh yxiuh v1.md
+    - Tonatiuh yxiuh v2: Tonatiuh yxiuh v2.md
+    - Totec-yxiuh: Totec-yxiuh.md
+    - Totoloctzin: Totoloctzin.md
+    - Totonqui xochitl: Totonqui xochitl.md
+    - Tzayanal-quilitl: Tzayanal-quilitl.md
+    - Tzihuac-copalli: Tzihuac-copalli.md
+    - Tzitzicton: Tzitzicton.md
+    - Tzon-pilihuiz-xihuitl: Tzon-pilihuiz-xihuitl.md
+    - Tzotzoca-xihuitl: Tzotzoca-xihuitl.md
+    - Xa-xocotl: Xa-xocotl.md
+    - Xal-tomatl: Xal-tomatl.md
+    - Xiuh-amolli: Xiuh-amolli.md
+    - Xiuh-elo-quilitl: Xiuh-elo-quilitl.md
+    - Xiuh-patli: Xiuh-patli.md
+    - Xiuh-tlemaitl: Xiuh-tlemaitl.md
+    - Xiuhuitl tonalco-mochiva hahuachcho: Xiuhuitl tonalco-mochiva hahuachcho.md
+    - Xococ quahuitl: Xococ quahuitl.md
+    - Xomalin: Xomalin.md
+    - Xoxouhca-patli: xoxouhca-patli.md
+    - Ylin: Ylin.md
+    - Yollo-xochitl: Yollo-xochitl.md
+    - Zaca-matlalin: Zaca-matlalin.md
+    - Zozoyatic: Zozoyatic.md
+
+- Plants:
+    - A-illin: A-illin.md
+    - Atoya-xocotl: Atoya-xocotl.md
+    - Ayauhtli: Ayauhtli.md
+    - Capolla-xipehualli: Capolla-xipehualli.md
+    - Capul-xihuitl: Capul-xihuitl.md
+    - Centzon-oco-xochitl: Centzon-oco-xochitl.md
+    - Chian: Chian.md
+    - Chichic-xihuitl: Chichic-xihuitl.md
+    - Chichiltic xiuhtontli: Chichiltic xiuhtontli.md
+    - Cococ-xihuitl: Cococ-xihuitl.md
+    - Cohua-xochitl: Cohua-xochitl.md
+    - Copal-quahuitl: Copal-quahuitl.md
+    - Copal-xocotl: Copal-xocotl.md
+    - Holli: Holli.md
+    - Huey-nacaztli: Huey-nacaztli.md
+    - Iztauyattl: Iztauyattl.md
+    - Macpal-xochitl: Macpal-xochitl.md
+    - Mamaxtla-nelhuatl: Mamaxtla-nelhuatl.md
+    - Michi-huauhtli: Michi-huauhtli.md
+    - Mizquitl: Mizquitl.md
+    - Nocheztli: Nocheztli.md
+    - Nochtli: Nochtli.md
+    - Nopalli: Nopalli.md
+    - Oco-xochitl: Oco-xochitl.md
+    - Ocotl: Ocotl.md
+    - Oyametl: Oyametl.md
+    - Piciyetl: Piciyetl.md
+    - Quauh-izqui-xochitl: Quauh-izqui-xochitl.md
+    - Quauh-patli: Quauh-patli.md
+    - Quauh-xiyotl: Quauh-xiyotl.md
+    - Quetzal-xoxouhca-patli tzotzotlani: Quetzal-xoxouhca-patli tzotzotlani.md
+    - Teco-xochiti-xihuitl: teco-xochiti-xihuitl.md
+    - Tecpatl: Tecpatl.md
+    - Temamatlatzin: Temamatlatzin.md
+    - Teo-amatl: Teo-amatl.md
+    - Teo-xihuitl v1: Teo-xihuitl v1.md
+    - Tepaquilti quahuitl: tepaquilti quahuitl.md
+    - Tepe-chian: Tepe-chian.md
+    - Tepe-ylin: Tepe-ylin.md
+    - Tetezhuatic: Tetezhuatic.md
+    - Tetlahuitl v1: Tetlahuitl v1.md
+    - Tetzmi-nopalli: Tetzmi-nopalli.md
+    - Tetzmi-xochitl: Tetzmi-xochitl.md
+    - Tlaco-amatl: Tlaco-amatl.md
+    - Tlaco-izqui-xochitl: Tlaco-izqui-xochitl.md
+    - Tlaco-xilo-xochitl: Tlaco-xilo-xochitl.md
+    - Tlal-ecapatli: Tlal-ecapatli.md
+    - Tlal-mizquitl: Tlal-mizquitl.md
+    - Tlal-patli: Tlal-patli.md
+    - Tlal-quequetzal: Tlal-quequetzal.md
+    - Tlanextia-yxiuh: Tlanextia-yxiuh.md
+    - Tlapal-achiyotl: Tlapal-achiyotl.md
+    - Tlapatl: Tlapatl.md
+    - Topozan: Topozan.md
+    - Tzacouh-xochitl: Tzacouh-xochitl.md
+    - Tzon-pachtzin: Tzon-pachtzin.md
+    - Tzonpilihuiz-patli: Tzonpilihuiz-patli.md
+    - Tzopelica-cococ: Tzopelica-cococ.md
+    - Xe-xihuitl: Xe-xihuitl.md
+    - Xilo-xochitl: Xilo-xochitl.md
+    - Xiuhtontli: Xiuhtontli.md
+    - Xoxouhqui-itzli: xoxouhqui-itzli.md
+    - Y-yauhtli: Y-yauhtli.md
+    - Yamanqui patli: Yamanqui patli.md
+
+- Stones:
+    - A-camallo-tetl v2: a-camallo-tetl v2.md
+    - Chichiltic tapachtli: chichiltic tapachtli.md
+    - Eztetl: eztetl.md
+    - Iztac tlalli: iztac tlalli.md
+    - Iztac-quetzaliztli: iztac-quetzaliztli.md
+    - Quetzal-iztli: quetzal-iztli.md
+    - Te-mamatlatzin: te-mamatlatzin.md
+    - Te-xoxoctli: te-xoxoctli.md
+    - Teo-xihuitl v2: teo-xihuitl v2.md
+    - Tetlahuitl v2: tetlahuitl v2.md
+    - Texalli: texalli.md
+    - Tlacal-huatzin: tlacal-huatzin.md
+    - Xiuh-tomolli: xiuh-tomolli.md
+
+- Animals:
+    - Atzitzicuilotl: atzitzicuilotl.md
+    - Avat-tecolotl: avat-tecolotl.md
+    - Coyotl: coyotl.md
+    - Cuetlachtli: cuetlachtli.md
+    - Eca-cohuatl: eca-cohuatl.md
+    - Miztli: miztli.md
+    - Ocotochtli: ocotochtli.md
+    - Pezotli: pezotli.md
+    - Tlaco-ocelotl: tlaco-ocelotl.md
+    - Tlaquatzin: tlaquatzin.md
+
+- Birds:
+    - Acatzanatl: acatzanatl.md
+    - Apopotli: apopotli.md
+    - Aztatl: aztatl.md
+    - Cocotli: cocotli.md
+    - Huactli: huactli.md
+    - Huacton: huacton.md
+    - Huexo-canauhtli: huexo-canauhtli.md
+    - Huitlalotl: huitlalotl.md
+    - Huitzitzilin: huitzitzilin.md
+    - Molo-tototl: molo-tototl.md
+    - Noch-tototl: noch-tototl.md
+    - Tlacahuilotl: tlacahuilotl.md
+    - Tlapal-tototl: tlapal-tototl.md
+    - Tototl: tototl.md
+    - Xiuh-quechol-tototl: xiuh-quechol-tototl.md
+    - Zolin: zolin.md
+
+- Other:
+    - Chilmolli: chilmolli.md
+    - Hoxitl: hoxitl.md
+    - Octli: octli.md
+
+
+plugins:
+ - social
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+
+extra:
+  social:
+    - icon: simple/youtube
+      link: https://www.youtube.com/@DanChitwood
+    - icon: simple/python
+      link: https://danchitwood.github.io/plants_and_python/
