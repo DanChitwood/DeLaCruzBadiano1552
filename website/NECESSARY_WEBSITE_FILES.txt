@@ -1,0 +1,7 @@
+./website/0_website_elements and its contents
+./website/1_parse_text/verify_subchapter_links.py
+./website/2_illustrations/generate_images.py
+./website/4_generate_markdown.py
+./website/13_morpheme_processing.py
+./website/15_generate_mkdocs.py
+

@@ -1,0 +1,177 @@
+ID,official_name,type,text_subchapters,illustration_name,synonyms,label,PROBLEMS,NOTES,REFERENCES,verified_subchapter,verified illustration,spelling,page,filename
+ID001,Aca-capac-quilitl,plant,09e,p079_01,acacapac-quilitl; acapac-quilitl,Acatl/reed; Quilitl/edible green,,,,acacapac-quilitl 09e; acapac-quilitl 09e,p079_01,aca-capac-quilitl,p079_01,K_ID001_p079_01_Aca-capac-quilitl.png
+ID002,Acatl,plant,,p079_04,,Acatl/reed,,,,,p079_04,acatl,p079_04,K_ID002_p079_04_Acatl.png
+ID003,A-chilli,plant,08j,p065_02,,Atl/water; Chilli/chile,,,,a-chilli 08j,p065_02,a-chilli,p065_02,M_ID003_p065_02_A-chilli.png
+ID004,Acoco-xihuitl,plant,10a,p094_02,a-cocohtli,"Atl/water; Xihuitl/herbs, green leaves",,,,acoco-xihuitl 10a,p094_02,acoco-xihuitl,p094_02,Z_ID004_p094_02_Acoco-xihuitl.png
+ID005,Acxoyatl,plant,10b,p095_02,,Acatl/reed,,,,acxoyatl 10b,p095_02,acxoyatl,p095_02,Z_ID005_p095_02_Acxoyatl.png
+ID006,Ahuatl,plant,08l,p088_03,ahuatl tepiton,,,,,ahuatl 08l,p088_03,ahuatl,p088_03,Z_ID006_p088_03_Ahuatl.png
+ID007,Ahquiztli,plant,09b,p074_02,a-quiztli,,,,,a-quiztli 09b,p074_02,ahquiztli,p074_02,K_ID007_p074_02_Ahquiztli.png
+ID009,Ahuiyac-xihuitl,plant,08k; 11b,p107_01,hayuiyac xihuitl,"Xihuitl/herbs, green leaves",,,,ahuiyac-xihuitl 08k; ahuiyac-xihuitl 11b,p107_01,ahuiyac-xihuitl,p107_01,A_ID009_p107_01_Ahuiyac-xihuitl.png
+ID012,Xiuh-amolli,plant,01e,p011_01,,"Xihuitl/herbs, green leaves",,,,xiuh-amolli 01e,p011_01,xiuh-amolli,p011_01,D_ID012_p011_01_Xiuh-amolli.png
+ID014,A-quahuitl,plant,06d; 09g; 09i,p081_01,,Atl/water; Quahuitl/tree or wood,,,,a-quahuitl 06d; a-quahuitl 09g; a-quahuitl 09i,p081_01,a-quahuitl,p081_01,L_ID014_p081_01_A-quahuitl.png
+ID015,A-toch-ietl,plant,04a,p024_02,,Atl/water,,,,a-toch-ietl 04a,p024_02,a-toch-ietl,p024_02,D_ID015_p024_02_A-toch-ietl.png
+ID017,A-xocotl,plant,08l; 09f; 10k,p080_03,,Atl/water; Xocotl/sour fruit,,,,a-xocotl 08l; a-xocotl 09f; a-xocotl 10k,p080_03,a-xocotl,p080_03,L_ID017_p080_03_A-xocotl.png
+ID018,Ayauh-quahuitl,plant,08f; 08l; 09f; 09q,p091_01,,Ayauh/mist or fog; Quahuitl/tree or wood,,,,ayauh-quahuitl 08f; ayauh-quahuitl 08l; ayauh-quahuitl 09f; ayauh-quahuitl 09q,p091_01,ayauh-quahuitl,p091_01,Z_ID018_p091_01_Ayauh-quahuitl.png
+ID020,A-yecotli,plant,,p050_01,,Atl/water,,,,,p050_01,a-yecotli,p050_01,N_ID020_p050_01_A-yecotli.png
+ID022,Ylin,plant,07k; 09j; 09o,p084_01,,,,,,ylin 07k; ylin 09j; ylin 09o,p084_01,ylin,p084_01,L_ID022_p084_01_Ylin.png
+ID024,Quetzal-ylin,plant,07k; 07l; 08l; 09i; 09m; 13a,p069_10,quetzal ylin,"Quetzal/precious, feathered, or green",,,,quetzal-ylin 07k; quetzal-ylin 07l; quetzal-ylin 08l; quetzal-ylin 09i; quetzal-ylin 09m; quetzal-ylin 13a,p069_10,quetzal-ylin,p069_10,K_ID024_p069_10_Quetzal-ylin.png
+ID024,Quetzal-ylin,plant,07k; 07l; 08l; 09i; 09m; 13a,p115_01,quetzal ylin,"Quetzal/precious, feathered, or green",,,,quetzal-ylin 07k; quetzal-ylin 07l; quetzal-ylin 08l; quetzal-ylin 09i; quetzal-ylin 09m; quetzal-ylin 13a,p115_01,quetzal-ylin,p115_01,D_ID024_p115_01_Quetzal-ylin.png
+ID025,Ayo-nelhuatl,plant,11c,p109_02,ayonelhuatl,,,,,ayo-nelhuatl 11c,p109_02,ayo-nelhuatl,p109_02,A_ID025_p109_02_Ayo-nelhuatl.png
+ID026,A-zaca-tzontli,plant,,p079_02,,Atl/water; Tzon/hair; Zacatl/grass,,,,,p079_02,a-zaca-tzontli,p079_02,K_ID026_p079_02_A-zaca-tzontli.png
+ID028,Eca-patli,plant,01a; 05h; 06d; 06e; 08j; 08k; 08l; 09b; 09p; 10b; 10f; 12a,p007_01,xiuh-ecapatli,Ecatl/wind; Patli/medicine,,,,eca-patli 01a; eca-patli 05h; eca-patli 06d; eca-patli 06e; eca-patli 08j; xiuh-ecapatli 08j; xiuh-ecapatli 08k; eca-patli 08l; xiuh-ecapatli 09b; eca-patli 09p; xiuh-ecapatli 10b; xiuh-ecapatli 10f; xiuh-ecapatli 12a,p007_01,eca-patli,p007_01,D_ID028_p007_01_Eca-patli.png
+ID028,Eca-patli,plant,01a; 05h; 06d; 06e; 08j; 08k; 08l; 09b; 09p; 10b; 10f; 12a,p065_01,xiuh-ecapatli,Ecatl/wind; Patli/medicine,,,,eca-patli 01a; eca-patli 05h; eca-patli 06d; eca-patli 06e; eca-patli 08j; xiuh-ecapatli 08j; xiuh-ecapatli 08k; eca-patli 08l; xiuh-ecapatli 09b; eca-patli 09p; xiuh-ecapatli 10b; xiuh-ecapatli 10f; xiuh-ecapatli 12a,p065_01,eca-patli,p065_01,M_ID028_p065_01_Eca-patli.png
+ID028,Eca-patli,plant,01a; 05h; 06d; 06e; 08j; 08k; 08l; 09b; 09p; 10b; 10f; 12a,p089_02,xiuh-ecapatli,Ecatl/wind; Patli/medicine,,,,eca-patli 01a; eca-patli 05h; eca-patli 06d; eca-patli 06e; eca-patli 08j; xiuh-ecapatli 08j; xiuh-ecapatli 08k; eca-patli 08l; xiuh-ecapatli 09b; eca-patli 09p; xiuh-ecapatli 10b; xiuh-ecapatli 10f; xiuh-ecapatli 12a,p089_02,eca-patli,p089_02,Z_ID028_p089_02_Eca-patli.png
+ID030,Elo-xochitl,plant,08l,p069_08,,Elotl/fresh maize ear; Xochitl/flower,,,,elo-xochitl 08l,p069_08,elo-xochitl,p069_08,K_ID030_p069_08_Elo-xochitl.png
+ID031,Xiuh-elo-quilitl,plant,11c,p108_01,xiuh-eloquilitl,"Elotl/fresh maize ear; Quilitl/edible green; Xihuitl/herbs, green leaves",,,,xiuh-eloquilitl 11c,p108_01,xiuh-elo-quilitl,p108_01,A_ID031_p108_01_Xiuh-elo-quilitl.png
+ID032,Elo-zacatl,plant,07l; 11d,p054_01,,Elotl/fresh maize ear; Zacatl/grass,,,,elo-zacatl 07l; elo-zacatl 11d,p054_01,elo-zacatl,p054_01,N_ID032_p054_01_Elo-zacatl.png
+ID033,Ez-patli,plant,,p033_01,,Patli/medicine,,,,,p033_01,ez-patli,p033_01,D_ID033_p033_01_Ez-patli.png
+ID035,Teo-ezquahuitl,plant,,p068_06,teo-ez-quahuitl,Teo/divine,,,,,p068_06,teo-ezquahuitl,p068_06,M_ID035_p068_06_Teo-ezquahuitl.png
+ID036,Iztac huitz-quahuitl,plant,11c,p109_01,,Huitz/needle or thorn; Iztac/white; Quahuitl/tree or wood,,,,iztac huitz-quahuitl 11c,p109_01,iztac huitz-quahuitl,p109_01,A_ID036_p109_01_Iztac_huitz-quahuitl.png
+ID037,Huitz-quahuitl,plant,08l; 09d,p068_07,,Huitz/needle or thorn; Quahuitl/tree or wood,,,,huitz-quahuitl 08l; huitz-quahuitl 09d,p068_07,huitz-quahuitl,p068_07,M_ID037_p068_07_Huitz-quahuitl.png
+ID039,Iztac-patli,plant,04b,p025_01,iztac patli,Iztac/white; Patli/medicine,,,,iztac-patli 04b,p025_01,iztac-patli,p025_01,D_ID039_p025_01_Iztac-patli.png
+ID040,Iztac-quahuitl,plant,,p068_05,iztac quahuitl,Iztac/white; Quahuitl/tree or wood,,,,,p068_05,iztac-quahuitl,p068_05,M_ID040_p068_05_Iztac-quahuitl.png
+ID041,Teo-iztaquilitl,plant,05f; 07b; 07h; 09b; 09e,p031_01,chichiltic teo-iztaquilitl tlalli; teo-iztac-quilitl; teo-iztacuilitl,Iztac/white; Quilitl/edible green; Teo/divine,,,,teo-iztac-quilitl 05f; teo-iztaquilitl 07b; teo-iztaquilitl 07h; teo-iztacuilitl 09b; teo-iztaquilitl 09e,p031_01,teo-iztaquilitl,p031_01,D_ID041_p031_01_Teo-iztaquilitl.png
+ID041,Teo-iztaquilitl,plant,05f; 07b; 07h; 09b; 09e,p051_01,chichiltic teo-iztaquilitl tlalli; teo-iztac-quilitl; teo-iztacuilitl,Iztac/white; Quilitl/edible green; Teo/divine,,,,teo-iztac-quilitl 05f; teo-iztaquilitl 07b; teo-iztaquilitl 07h; teo-iztacuilitl 09b; teo-iztaquilitl 09e,p051_01,teo-iztaquilitl,p051_01,N_ID041_p051_01_Teo-iztaquilitl.png
+ID042,Izqui-xochitl,plant,08l; 09d; 09f,p069_09,,Xochitl/flower,,,,izqui-xochitl 08l; izqui-xochitl 09d; izqui-xochitl 09f,p069_09,izqui-xochitl,p069_09,K_ID042_p069_09_Izqui-xochitl.png
+ID043,Tlaco-izqui-xochitl,plant,05e; 08d; 08l,p060_02,,Tlaco/half or middle; Xochitl/flower,,,,tlaco-izqui-xochitl 05e; tlaco-izqui-xochitl 08d; tlaco-izqui-xochitl 08l,p060_02,tlaco-izqui-xochitl,p060_02,N_ID043_p060_02_Tlaco-izqui-xochitl.png
+ID045,Itzquin-patli,plant,07b; 08f; 08j; 08k,p046_03,itzcuin-patli; itzcuinpatli,Patli/medicine,,,,itzcuinpatli 07b; itzquin-patli 08f; itzcuin-patli 08j; itzcuin-patli 08k,p046_03,itzquin-patli,p046_03,J_ID045_p046_03_Itzquin-patli.png
+ID049,Iztac oco-xochitl,plant,01a; 07l; 08e; 09b; 09e; 09q,p007_02,iztac ocoxochitl; iztac-oco-xochitl; oco-xochitl,Iztac/white; Ocotl/pine; Xochitl/flower,,,,iztac oco-xochitl 01a; oco-xochitl 01a; iztac-oco-xochitl 07l; oco-xochitl 07l; iztac-oco-xochitl 08e; oco-xochitl 08e; iztac-oco-xochitl 09b; oco-xochitl 09b; iztac-oco-xochitl 09e; oco-xochitl 09e; iztac-oco-xochitl 09q; oco-xochitl 09q,p007_02,iztac oco-xochitl,p007_02,D_ID049_p007_02_Iztac_oco-xochitl.png
+ID053,Te-xochitl yamanqui,plant,,p064_01,,Te/stone; Xochitl/flower,,,,,p064_01,te-xochitl yamanqui,p064_01,M_ID053_p064_01_Te-xochitl_yamanqui.png
+ID056,Quauh-yyauhtli,plant,08j; 08l; 09l; 09q; 10b; 10j; 11d,p091_02,qauh-yyauhtli; yyauhtli,Quahuitl/tree or wood; Yauhtli/medicinal marigold,,,,quauh-yyauhtli 08j; yyauhtli 08j; quauh-yyauhtli 08l; yyauhtli 08l; quauh-yyauhtli 09l; yyauhtli 09l; quauh-yyauhtli 09q; yyauhtli 09q; qauh-yyauhtli 10b; yyauhtli 10b; yyauhtli 10j; quauh-yyauhtli 11d; yyauhtli 11d,p091_02,quauh-yyauhtli,p091_02,Z_ID056_p091_02_Quauh-yyauhtli.png
+ID058,Yollo-xochitl,plant,08c; 08d; 10e; 10k,p098_02,,Xochitl/flower,,,,yollo-xochitl 08c; yollo-xochitl 08d; yollo-xochitl 10e; yollo-xochitl 10k,p098_02,yollo-xochitl,p098_02,Z_ID058_p098_02_Yollo-xochitl.png
+ID060,Cacalo-xochitl,plant,08l; 09g; 10d,p097_01,,Xochitl/flower,,,,cacalo-xochitl 08l; cacalo-xochitl 09g; cacalo-xochitl 10d,p097_01,cacalo-xochitl,p097_01,Z_ID060_p097_01_Cacalo-xochitl.png
+ID061,Tlal-cacapol,plant,09m,p087_02,,Tlal/earth or ground,,,,tlal-cacapol 09m,p087_02,tlal-cacapol,p087_02,L_ID061_p087_02_Tlal-cacapol.png
+ID062,Cacaua-xochitl,plant,08j; 10d; 10e,p098_01,cacau-xochitl,Xochitl/flower,,,,cacau-xochitl 08j; cacaua-xochitl 10d; cacaua-xochitl 10e,p098_01,cacaua-xochitl,p098_01,Z_ID062_p098_01_Cacaua-xochitl.png
+ID067,Cecen-tlacol,plant,,p067_08,cecen tlacol,,,,,,p067_08,cecen-tlacol,p067_08,M_ID067_p067_08_Cecen-tlacol.png
+ID068,Centzon-xochitl,plant,09b; 09f; 11c,p074_01,centzon xochitl,Centzon/four hundred or many; Xochitl/flower,,,,centzon-xochitl 09b; centzon-xochitl 09f; centzon-xochitl 11c,p074_01,centzon-xochitl,p074_01,K_ID068_p074_01_Centzon-xochitl.png
+ID070,Cihua-patli,plant,11a,p106_02,,Patli/medicine,,,,cihua-patli 11a,p106_02,cihua-patli,p106_02,A_ID070_p106_02_Cihua-patli.png
+ID071,Cimatl,plant,09m,p087_03,,,,,,cimatl 09m,p087_03,cimatl,p087_03,L_ID071_p087_03_Cimatl.png
+ID072,Coanenepilli,plant,08c; 09f,p059_02,cohuanene-pilli,,,,,cohuanene-pilli 08c; coanenepilli 09f,p059_02,coanenepilli,p059_02,N_ID072_p059_02_Coanenepilli.png
+ID075,Cohua-xocotl,plant,,p068_04,coa-xocotl,Xocotl/sour fruit,,,,,p068_04,cohua-xocotl,p068_04,M_ID075_p068_04_Cohua-xocotl.png
+ID076,Cochiz-xihuitl,plant,02g,p020_03,,"Xihuitl/herbs, green leaves",,,,cochiz-xihuitl 02g,p020_03,cochiz-xihuitl,p020_03,D_ID076_p020_03_Cochiz-xihuitl.png
+ID077,Huihuitzyo-cochiz-xihuitl,plant,02g,p020_02,,"Huitz/needle or thorn; Xihuitl/herbs, green leaves",,,,huihuitzyo-cochiz-xihuitl 02g,p020_02,huihuitzyo-cochiz-xihuitl,p020_02,D_ID077_p020_02_Huihuitzyo-cochiz-xihuitl.png
+ID079,Colo-mecatl,plant,09c,p077_01,,"Mecatl/cord, rope, or vine",,,,colo-mecatl 09c,p077_01,colo-mecatl,p077_01,K_ID079_p077_01_Colo-mecatl.png
+ID081,Coltotzin,plant,12a,p113_02,,,,,,coltotzin 12a,p113_02,coltotzin,p113_02,D_ID081_p113_02_Coltotzin.png
+ID082,Copaliyac-xiuhtontli,plant,07i; 07m,p052_01,,"Copalli/incense; Xihuitl/herbs, green leaves",,,,copaliyac-xiuhtontli 07i; copaliyac-xiuhtontli 07m,p052_01,copaliyac-xiuhtontli,p052_01,N_ID082_p052_01_Copaliyac-xiuhtontli.png
+ID085,Coyo-xihuitl,plant,08g; 08j; 09e; 09g; 09l,p061_01,coyo-xihuitl tlaztalehualtic,"Coyotl/coyote; Xihuitl/herbs, green leaves",,,,coyo-xihuitl 08g; coyo-xihuitl 08j; coyo-xihuitl 09e; coyo-xihuitl 09g; coyo-xihuitl 09l,p061_01,coyo-xihuitl,p061_01,M_ID085_p061_01_Coyo-xihuitl.png
+ID086,Coz-canantzi,plant,,p067_03,,,,,,,p067_03,coz-canantzi,p067_03,M_ID086_p067_03_Coz-canantzi.png
+ID087,Cuecuetz-patli,plant,09h,p082_01,,Patli/medicine,,,,cuecuetz-patli 09h,p082_01,cuecuetz-patli,p082_01,L_ID087_p082_01_Cuecuetz-patli.png
+ID089,Chichic texcal-amatl,plant,,p078_01,,Amatl/paper; Chichic/bitter; Texcal/stone or cliff,,,,,p078_01,chichic texcal-amatl,p078_01,K_ID089_p078_01_Chichic_texcal-amatl.png
+ID091,Chicom-acatl,plant,09f,p080_04,chicom-catl,Acatl/reed,,,,chicom-catl 09f,p080_04,chicom-acatl,p080_04,L_ID091_p080_04_Chicom-acatl.png
+ID092,Chipauac xihuitl,plant,01b,p008_01,chipauac,"Xihuitl/herbs, green leaves",,,,chipauac 01b,p008_01,chipauac xihuitl,p008_01,D_ID092_p008_01_Chipauac_xihuitl.png
+ID093,Chiyava xihuitl,plant,10g,p100_01,chiyava-xihuitl,"Xihuitl/herbs, green leaves",,,,chiyava-xihuitl 10g,p100_01,chiyava xihuitl,p100_01,A_ID093_p100_01_Chiyava_xihuitl.png
+ID094,Huacal-xochitl,plant,02b; 05e; 07b; 08l; 10k,p030_01,huacal xochitl,Xochitl/flower,,,,huacal-xochitl 02b; huacal-xochitl 05e; huacal-xochitl 07b; huacal-xochitl 08l; huacal-xochitl 10k,p030_01,huacal-xochitl,p030_01,D_ID094_p030_01_Huacal-xochitl.png
+ID096,Tlal-huaxin,plant,08a,p057_02,,Tlal/earth or ground,,,,tlal-huaxin 08a,p057_02,tlal-huaxin,p057_02,N_ID096_p057_02_Tlal-huaxin.png
+ID097,Huelic-patli,plant,07n,p055_02,,Patli/medicine,,,,huelic-patli 07n,p055_02,huelic-patli,p055_02,N_ID097_p055_02_Huelic-patli.png
+ID098,Huetzcani xochitl,plant,,p067_11,,Xochitl/flower,,,,,p067_11,huetzcani xochitl,p067_11,M_ID098_p067_11_Huetzcani_xochitl.png
+ID100,Huitz-colotli,plant,05h,p033_02,huitz-colo-xochitl; huitz-colohtli,Huitz/needle or thorn,,,,huitz-colo-xochitl 05h; huitz-colotli 05h,p033_02,huitz-colotli,p033_02,D_ID100_p033_02_Huitz-colotli.png
+ID101,Huihuitz-mallotic,plant,07j; 08c,p059_01,huitz-mallotic,Huitz/needle or thorn,,,,huitz-mallotic 07j; huihuitz-mallotic 08c; huitz-mallotic 08c,p059_01,huihuitz-mallotic,p059_01,N_ID101_p059_01_Huihuitz-mallotic.png
+ID103,Huitz-quilitl,plant,01d; 09e; 09p,p010_02,,Huitz/needle or thorn; Quilitl/edible green,,,,huitz-quilitl 01d; huitz-quilitl 09e; huitz-quilitl 09p,p010_02,huitz-quilitl,p010_02,D_ID103_p010_02_Huitz-quilitl.png
+ID104,Quauhtla huitz-quilitl,plant,07m; 09a,p073_01,,Huitz/needle or thorn; Quahuitl/tree or wood; Quilitl/edible green,,,,quauhtla huitz-quilitl 07m; quauhtla huitz-quilitl 09a,p073_01,quauhtla huitz-quilitl,p073_01,K_ID104_p073_01_Quauhtla_huitz-quilitl.png
+ID105,Huitzihtzil-xochitl,plant,08k; 12a,p066_01,huitzihtzil xochitl; huitzitzil-xochitl,Huitzihtzil/colibri; Xochitl/flower,,,,huitzihtzil-xochitl 08k; huitzitzil-xochitl 12a,p066_01,huitzihtzil-xochitl,p066_01,M_ID105_p066_01_Huitzihtzil-xochitl.png
+ID107,Malinalli,plant,02e; 05h; 11c,p018_01,,,,,,malinalli 02e; malinalli 05h; malinalli 11c,p018_01,malinalli,p018_01,D_ID107_p018_01_Malinalli.png
+ID108,Mamaxtla,plant,08c; 08d,p060_01,,,,,,mamaxtla 08c; mamaxtla 08d,p060_01,mamaxtla,p060_01,N_ID108_p060_01_Mamaxtla.png
+ID110,Matlal-xochitl,plant,02b,p014_02,,Xochitl/flower,,,,matlal-xochitl 02b,p014_02,matlal-xochitl,p014_02,D_ID110_p014_02_Matlal-xochitl.png
+ID112,Maza-yelli,plant,03a,p022_01,,,,,,maza-yelli 03a,p022_01,maza-yelli,p022_01,D_ID112_p022_01_Maza-yelli.png
+ID113,Meca-xochitl,plant,08l; 10k,p104_01,,"Mecatl/cord, rope, or vine; Xochitl/flower",,,,meca-xochitl 08l; meca-xochitl 10k,p104_01,meca-xochitl,p104_01,A_ID113_p104_01_Meca-xochitl.png
+ID114,Memeya xiuhtontli,plant,,p111_02,memeya xihuitl,"Xihuitl/herbs, green leaves",,,,,p111_02,memeya xiuhtontli,p111_02,A_ID114_p111_02_Memeya_xiuhtontli.png
+ID115,Metzli-yzacauh,plant,,p067_10,metzli yzacauh,,,,,,p067_10,metzli-yzacauh,p067_10,M_ID115_p067_10_Metzli-yzacauh.png
+ID116,Mexix-quilitl,plant,06a,p036_02,,Quilitl/edible green,,,,mexix-quilitl 06a,p036_02,mexix-quilitl,p036_02,J_ID116_p036_02_Mexix-quilitl.png
+ID119,Mocuepani-xochitl,plant,,p067_05,mocuepani xochitl,Xochitl/flower,,,,,p067_05,mocuepani-xochitl,p067_05,M_ID119_p067_05_Mocuepani-xochitl.png
+ID120,Necouh xochitl,plant,,p097_02,,Xochitl/flower,,,,,p097_02,necouh xochitl,p097_02,Z_ID120_p097_02_Necouh_xochitl.png
+ID121,Nexehuac,plant,07e,p049_02,,,,,,nexehuac 07e,p049_02,nexehuac,p049_02,N_ID121_p049_02_Nexehuac.png
+ID124,Teo-nochtli,plant,05c,p028_01,,Nochtli/prickly pear; Teo/divine,,,,teo-nochtli 05c,p028_01,teo-nochtli,p028_01,D_ID124_p028_01_Teo-nochtli.png
+ID125,Tlaloc-nochtli,plant,,p090_01,,Nochtli/prickly pear,,,,,p090_01,tlaloc-nochtli,p090_01,Z_ID125_p090_01_Tlaloc-nochtli.png
+ID126,Nonochton azcapanixua,plant,07c,p047_01,nonochton,,,,,nonochton 07c,p047_01,nonochton azcapanixua,p047_01,J_ID126_p047_01_Nonochton_azcapanixua.png
+ID128,Papalo-quilitl,plant,06a; 07b; 09q; 10f,p036_01,,Papalo/butterfly; Quilitl/edible green,,,,papalo-quilitl 06a; papalo-quilitl 07b; papalo-quilitl 09q; nan 10f; papalo-quilitl 10f,p036_01,papalo-quilitl,p036_01,J_ID128_p036_01_Papalo-quilitl.png
+ID129,Patlahuac tzitzicaztli,plant,09k,p085_04,,,,,,patlahuac tzitzicaztli 09k,p085_04,patlahuac tzitzicaztli,p085_04,L_ID129_p085_04_Patlahuac_tzitzicaztli.png
+ID131,Piltzinte-couh-xochitl,plant,08f; 08j,p062_01,piltzin-tecouh-xochitl; pilzinte-couh xochitl chiyaua,Xochitl/flower,,,,piltzin-tecouh-xochitl 08f; piltzin-tecouh-xochitl 08j,p062_01,piltzinte-couh-xochitl,p062_01,M_ID131_p062_01_Piltzinte-couh-xochitl.png
+ID131,Piltzinte-couh-xochitl,plant,08f; 08j,p067_02,piltzin-tecouh-xochitl; pilzinte-couh xochitl chiyaua,Xochitl/flower,,,,piltzin-tecouh-xochitl 08f; piltzin-tecouh-xochitl 08j,p067_02,piltzinte-couh-xochitl,p067_02,M_ID131_p067_02_Piltzinte-couh-xochitl.png
+ID132,Pozahualiz-xiuhtontli,plant,11d,p110_01,,"Xihuitl/herbs, green leaves",,,,pozahualiz-xiuhtontli 11d,p110_01,pozahualiz-xiuhtontli,p110_01,A_ID132_p110_01_Pozahualiz-xiuhtontli.png
+ID133,Quappo-quietl,plant,08f,p062_02,,,,,,quappo-quietl 08f,p062_02,quappo-quietl,p062_02,M_ID133_p062_02_Quappo-quietl.png
+ID134,Quauh-alahuac,plant,11a; 11c,p106_01,,Quahuitl/tree or wood,,,,quauh-alahuac 11a; quauh-alahuac 11c,p106_01,quauh-alahuac,p106_01,A_ID134_p106_01_Quauh-alahuac.png
+ID135,Quauh-yayahual,plant,09g; 10b,p095_01,quauh yayahual,Quahuitl/tree or wood,,,,quauh-yayahual 09g; quauh-yayahual 10b,p095_01,quauh-yayahual,p095_01,Z_ID135_p095_01_Quauh-yayahual.png
+ID137,Quauh-huitzihtzil-xochitl,plant,,p069_07,quah-huitzihtzil xochitl,Huitzihtzil/colibri; Quahuitl/tree or wood; Xochitl/flower,,,,,p069_07,quauh-huitzihtzil-xochitl,p069_07,K_ID137_p069_07_Quauh-huitzihtzil-xochitl.png
+ID140,Quauh-tzitzicaztli,plant,09k,p085_01,,Quahuitl/tree or wood,,,,quauh-tzitzicaztli 09k,p085_01,quauh-tzitzicaztli,p085_01,L_ID140_p085_01_Quauh-tzitzicaztli.png
+ID142,Quauhtla xoxocoyolin,plant,,p032_01,,Quahuitl/tree or wood; Xocotl/sour fruit,,,,,p032_01,quauhtla xoxocoyolin,p032_01,D_ID142_p032_01_Quauhtla_xoxocoyolin.png
+ID143,Quetzal-ahuexotl,plant,11a,p106_03,a-huexotl; quetzal ahuexotl,"Quetzal/precious, feathered, or green",,,,a-huexotl 11a,p106_03,quetzal-ahuexotl,p106_03,A_ID143_p106_03_Quetzal-ahuexotl.png
+ID145,Quetzal-atzonyatl,plant,10a,p094_01,quetzal-atzo-yatl; quetzal-hatzonyatl,"Quetzal/precious, feathered, or green",,,,quetzal-atzo-yatl 10a; quetzal-atzonyatl 10a,p094_01,quetzal-atzonyatl,p094_01,Z_ID145_p094_01_Quetzal-atzonyatl.png
+ID147,Quetzal-misquitl,plant,08f; 09m,p087_01,quetzal-mizquitl,"Misquitl/mesquite; Quetzal/precious, feathered, or green",,,,quetzal-mizquitl 08f; quetzal-mizquitl 09m,p087_01,quetzal-misquitl,p087_01,L_ID147_p087_01_Quetzal-misquitl.png
+ID148,Quetzal-xoxouca-patli,plant,08j,p043_01,quetzal-xoxouhca-patli,"Patli/medicine; Quetzal/precious, feathered, or green; Xocotl/sour fruit",,,,quetzal-xoxouhca-patli 08j,p043_01,quetzal-xoxouca-patli,p043_01,J_ID148_p043_01_Quetzal-xoxouca-patli.png
+ID150,Te-amoxtli,plant,01a; 05d; 05e; 08b; 08g; 09f; 09p; 09q; 12b,p007_03,,Amatl/paper; Te/stone,,,,te-amoxtli 01a; te-amoxtli 05d; te-amoxtli 05e; te-amoxtli 08b; te-amoxtli 08g; te-amoxtli 09f; te-amoxtli 09p; te-amoxtli 09q; te-amoxtli 12b,p007_03,te-amoxtli,p007_03,D_ID150_p007_03_Te-amoxtli.png
+ID150,Te-amoxtli,plant,01a; 05d; 05e; 08b; 08g; 09f; 09p; 09q; 12b,p029_02,,Amatl/paper; Te/stone,,,,te-amoxtli 01a; te-amoxtli 05d; te-amoxtli 05e; te-amoxtli 08b; te-amoxtli 08g; te-amoxtli 09f; te-amoxtli 09p; te-amoxtli 09q; te-amoxtli 12b,p029_02,te-amoxtli,p029_02,D_ID150_p029_02_Te-amoxtli.png
+ID152,Temahuitztih-quahuitl,plant,,p068_01,temahuiztih quahuitl,Quahuitl/tree or wood,,,,,p068_01,temahuitztih-quahuitl,p068_01,M_ID152_p068_01_Temahuitztih-quahuitl.png
+ID152,Temahuitztih-quahuitl,plant,,p069_06,temahuiztih quahuitl,Quahuitl/tree or wood,,,,,p069_06,temahuitztih-quahuitl,p069_06,K_ID152_p069_06_Temahuitztih-quahuitl.png
+ID154,Te-memetla,plant,06c,p038_02,tememetla,Te/stone,,,,tememetla 06c,p038_02,te-memetla,p038_02,J_ID154_p038_02_Te-memetla.png
+ID158,Te-papa-quilti-quahuitl,plant,,p069_05,te-papaquilti quahuitl,Quahuitl/tree or wood; Te/stone,,,,,p069_05,te-papa-quilti-quahuitl,p069_05,K_ID158_p069_05_Te-papa-quilti-quahuitl.png
+ID159,Tepa-quilti xiuhtontli,plant,,p067_04,tepaquilti xiuhtontli,"Xihuitl/herbs, green leaves",,,,,p067_04,tepa-quilti xiuhtontli,p067_04,M_ID159_p067_04_Tepa-quilti_xiuhtontli.png
+ID161,Tepe-papalo-quilitl,plant,,p103_01,tepe-papalo quilitl,Papalo/butterfly; Quilitl/edible green; Tepe/hill or mountain,,,,,p103_01,tepe-papalo-quilitl,p103_01,A_ID161_p103_01_Tepe-papalo-quilitl.png
+ID163,Tequam-maitl,plant,01d,p010_03,,,,,,tequam-maitl 01d,p010_03,tequam-maitl,p010_03,D_ID163_p010_03_Tequam-maitl.png
+ID164,Tequixqui-zacatl,plant,02f,p019_02,,Zacatl/grass,,,,tequixqui-zacatl 02f,p019_02,tequixqui-zacatl,p019_02,D_ID164_p019_02_Tequixqui-zacatl.png
+ID165,Te-tzapotl,plant,08a; 08b,p057_01,,Te/stone,,,,te-tzapotl 08a; te-tzapotl 08b,p057_01,te-tzapotl,p057_01,N_ID165_p057_01_Te-tzapotl.png
+ID166,Te-tzitzicaztli,plant,09k,p085_02,,Te/stone,,,,te-tzitzicaztli 09k,p085_02,te-tzitzicaztli,p085_02,L_ID166_p085_02_Te-tzitzicaztli.png
+ID167,Te-tzitzilin,plant,10a,p094_03,te-tzilin,Te/stone,,,,te-tzilin 10a,p094_03,te-tzitzilin,p094_03,Z_ID167_p094_03_Te-tzitzilin.png
+ID168,Te-xiyotl,plant,06c; 09p,p038_01,,Te/stone; Xiyotl/young maize ear,,,,te-xiyotl 06c; te-xiyotl 09p,p038_01,te-xiyotl,p038_01,J_ID168_p038_01_Te-xiyotl.png
+ID172,Tetzmitl,plant,02f; 09b; 09e; 09l; 09p,p019_01,,,,,,tetzmitl 02f; tetzmitl 09b; tetzmitl 09e; tetzmitl 09l; tetzmitl 09p,p019_01,tetzmitl,p019_01,D_ID172_p019_01_Tetzmitl.png
+ID174,Texcal-ama-coztli,plant,,p068_03,texcalama-coztli,Amatl/paper; Texcal/stone or cliff,,,,,p068_03,texcal-ama-coztli,p068_03,M_ID174_p068_03_Texcal-ama-coztli.png
+ID176,Tezon-patli,plant,01d,p010_01,,Patli/medicine,,,,tezon-patli 01d,p010_01,tezon-patli,p010_01,D_ID176_p010_01_Tezon-patli.png
+ID177,Tohmiyo-xihuitl,plant,,p111_01,tohmiyo xihuitl,"Xihuitl/herbs, green leaves",,,,,p111_01,tohmiyo-xihuitl,p111_01,A_ID177_p111_01_Tohmiyo-xihuitl.png
+ID178,Tolohua xihuitl,plant,03a; 06f; 06g; 07e; 08a; 08i; 08j; 09n,p049_01,tolohua; tolohua-xihuitl; tolova; tolova xihuitl; tolova-xihuitl,"Xihuitl/herbs, green leaves",,,,tolova 03a; tolova 06f; tolova-xihuitl 06f; tolohua 06g; tolohua 07e; tolohua-xihuitl 07e; tolohua 08a; tolohua-xihuitl 08a; tolohua 08i; tolohua-xihuitl 08i; tolohua 08j; tolohua-xihuitl 08j; tolohua 09n; tolohua-xihuitl 09n,p049_01,tolohua xihuitl,p049_01,N_ID178_p049_01_Tolohua_xihuitl.png
+ID178,Tolohua xihuitl,plant,03a; 06f; 06g; 07e; 08a; 08i; 08j; 09n,p041_02,tolohua; tolohua-xihuitl; tolova; tolova xihuitl; tolova-xihuitl,"Xihuitl/herbs, green leaves",,,,tolova 03a; tolova 06f; tolova-xihuitl 06f; tolohua 06g; tolohua 07e; tolohua-xihuitl 07e; tolohua 08a; tolohua-xihuitl 08a; tolohua 08i; tolohua-xihuitl 08i; tolohua 08j; tolohua-xihuitl 08j; tolohua 09n; tolohua-xihuitl 09n,p041_02,tolohua xihuitl,p041_02,J_ID178_p041_02_Tolohua_xihuitl.png
+ID180,Tol-patlactli,plant,05d; 09e,p029_03,tol-patlctli,Patli/medicine,,,,tol-patlactli 05d; tol-patlctli 09e,p029_03,tol-patlactli,p029_03,D_ID180_p029_03_Tol-patlactli.png
+ID181,Tomaz-quitl,plant,08l,p069_02,tomazqtl; tomazquitl,,,,,tomazquitl 08l,p069_02,tomaz-quitl,p069_02,K_ID181_p069_02_Tomaz-quitl.png
+ID182,Tonaca-xochitl,plant,10f,p099_02,tonaca xochitl,Xochitl/flower,,,,tonaca-xochitl 10f,p099_02,tonaca-xochitl,p099_02,Z_ID182_p099_02_Tonaca-xochitl.png
+ID183,Tonal-xochitl,plant,,p067_06,tonal xochitl,Tonalco/sun or heat; Xochitl/flower,,,,,p067_06,tonal-xochitl,p067_06,M_ID183_p067_06_Tonal-xochitl.png
+ID184,Xiuhuitl tonalco-mochiva hahuachcho,plant,,p012_01,,"Tonalco/sun or heat; Xihuitl/herbs, green leaves",,,,,p012_01,xiuhuitl tonalco-mochiva hahuachcho,p012_01,D_ID184_p012_01_Xiuhuitl_tonalco-mochiva_hahuachcho.png
+ID185,Ayauh-tonan-yxiuh,plant,10f,p099_03,ayauh tonan,"Ayauh/mist or fog; Xihuitl/herbs, green leaves",,,,ayauh-tonan-yxiuh 10f,p099_03,ayauh-tonan-yxiuh,p099_03,Z_ID185_p099_03_Ayauh-tonan-yxiuh.png
+ID186,Totonqui xochitl,plant,,p067_01,,Xochitl/flower,,,,,p067_01,totonqui xochitl,p067_01,M_ID186_p067_01_Totonqui_xochitl.png
+ID186,Totonqui xochitl,plant,,p067_07,,Xochitl/flower,,,,,p067_07,totonqui xochitl,p067_07,M_ID186_p067_07_Totonqui_xochitl.png
+ID188,Totec-yxiuh,plant,,p110_03,,"Xihuitl/herbs, green leaves",,,,,p110_03,totec-yxiuh,p110_03,A_ID188_p110_03_Totec-yxiuh.png
+ID189,Totoloctzin,plant,10f,p099_01,,,,,,nan 10f; totoloctzin 10f,p099_01,totoloctzin,p099_01,Z_ID189_p099_01_Totoloctzin.png
+ID190,Tlaca-camotli,plant,07d; 09e,p048_01,,Tlacatl/person,,,,tlaca-camotli 07d; tlaca-camotli 09e,p048_01,tlaca-camotli,p048_01,J_ID190_p048_01_Tlaca-camotli.png
+ID193,Tlaco-ecapatli,plant,09l,p086_02,tlaco-eca-patli,Ecatl/wind; Tlaco/half or middle,,,,tlaco-eca-patli 09l,p086_02,tlaco-ecapatli,p086_02,L_ID193_p086_02_Tlaco-ecapatli.png
+ID195,Tlaco-popotli,plant,11c,p108_02,tlaco-popotl; tlaco-poptl,Tlaco/half or middle,,,,tlaco-popotl 11c,p108_02,tlaco-popotli,p108_02,A_ID195_p108_02_Tlaco-popotli.png
+ID197,Tla-cuilol-quahuitl,plant,,p069_01,tlah-cuilol quahuitl,Quahuitl/tree or wood; Tla/thing or something,,,,,p069_01,tla-cuilol-quahuitl,p069_01,M_ID197_p069_01_Tla-cuilol-quahuitl.png
+ID198,Tlal-ahuehuetl,plant,01b; 09j; 09m; 09n; 12a,p008_03,,Tlal/earth or ground,,,,tlal-ahuehuetl 01b; tlal-ahuehuetl 09j; tlal-ahuehuetl 09m; tlal-ahuehuetl 09n; tlal-ahuehuetl 12a,p008_03,tlal-ahuehuetl,p008_03,D_ID198_p008_03_Tlal-ahuehuetl.png
+ID198,Tlal-ahuehuetl,plant,01b; 09j; 09m; 09n; 12a,p084_02,,Tlal/earth or ground,,,,tlal-ahuehuetl 01b; tlal-ahuehuetl 09j; tlal-ahuehuetl 09m; tlal-ahuehuetl 09n; tlal-ahuehuetl 12a,p084_02,tlal-ahuehuetl,p084_02,L_ID198_p084_02_Tlal-ahuehuetl.png
+ID205,Tla-nen-popoloua,plant,09l,p058_01,tlanen-popoloa,Tla/thing or something,,,,tlanen-popoloa 09l,p058_01,tla-nen-popoloua,p058_01,N_ID205_p058_01_Tla-nen-popoloua.png
+ID208,Tlanextia xiuhtontli,plant,05d; 05f; 05i; 07l; 07m; 11a,p029_01,tlanexti; tlanexti-xiuhtontli; tlanextia,"Tlanextia/to shine light; Xihuitl/herbs, green leaves",,,,tlanexti 05d; tlanexti 05f; tlanexti 05i; tlanextia 05i; tlanextia xiuhtontli 05i; tlanexti 07l; tlanexti-xiuhtontli 07l; tlanextia 07l; tlanexti 07m; tlanexti-xiuhtontli 07m; tlanexti 11a; tlanextia 11a,p029_01,tlanextia xiuhtontli,p029_01,D_ID208_p029_01_Tlanextia_xiuhtontli.png
+ID208,Tlanextia xiuhtontli,plant,05d; 05f; 05i; 07l; 07m; 11a,p054_02,tlanexti; tlanexti-xiuhtontli; tlanextia,"Tlanextia/to shine light; Xihuitl/herbs, green leaves",,,,tlanexti 05d; tlanexti 05f; tlanexti 05i; tlanextia 05i; tlanextia xiuhtontli 05i; tlanexti 07l; tlanexti-xiuhtontli 07l; tlanextia 07l; tlanexti 07m; tlanexti-xiuhtontli 07m; tlanexti 11a; tlanextia 11a,p054_02,tlanextia xiuhtontli,p054_02,N_ID208_p054_02_Tlanextia_xiuhtontli.png
+ID209,Tlanextia quahuitl,plant,07l; 09b,p069_03,tlanexti-quahuitl; tlanextia-quahuitl,Quahuitl/tree or wood; Tlanextia/to shine light,,,,tlanextia-quahuitl 07l; tlanextia quahuitl 09b,p069_03,tlanextia quahuitl,p069_03,K_ID209_p069_03_Tlanextia_quahuitl.png
+ID212,Tlapol-cacahuatl,plant,08l,p068_02,tlapal-cacahuatl,,,,,tlapal-cacahuatl 08l,p068_02,tlapol-cacahuatl,p068_02,M_ID212_p068_02_Tlapol-cacahuatl.png
+ID213,Tlaquilin,plant,03a; 09i; 09m,p022_03,,,,,,tlaquilin 03a; tlaquilin 09i; tlaquilin 09m,p022_03,tlaquilin,p022_03,D_ID213_p022_03_Tlaquilin.png
+ID214,Tlatlacotic,plant,06c; 07a; 09q; 10a; 10e,p045_01,,,,,,tlatlacotic 06c; tlatlacotic 07a; tlatlacotic 09q; tlatlacotic 10a; tlatlacotic 10e,p045_01,tlatlacotic,p045_01,J_ID214_p045_01_Tlatlacotic.png
+ID215,Tlatlanquaye,plant,01b; 03a; 05i; 06a; 07f; 07i; 07l; 08k; 09a; 09f; 09g; 09h; 09i; 09m; 09n; 09q; 12a,p034_01,tlatlan-quaye,,,,,tlatlanquaye 01b; tlatlanquaye 03a; tlatlanquaye 05i; tlatlanquaye 06a; tlatlanquaye 07f; tlatlanquaye 07i; tlatlanquaye 07l; tlatlanquaye 08k; tlatlan-quaye 09a; tlatlanquaye 09f; tlatlanquaye 09g; tlatlanquaye 09h; tlatlanquaye 09i; tlatlanquaye 09m; tlatlanquaye 09n; tlatlanquaye 09q; tlatlanquaye 12a,p034_01,tlatlanquaye,p034_01,D_ID215_p034_01_Tlatlanquaye.png
+ID215,Tlatlanquaye,plant,01b; 03a; 05i; 06a; 07f; 07i; 07l; 08k; 09a; 09f; 09g; 09h; 09i; 09m; 09n; 09q; 12a,p073_02,tlatlan-quaye,,,,,tlatlanquaye 01b; tlatlanquaye 03a; tlatlanquaye 05i; tlatlanquaye 06a; tlatlanquaye 07f; tlatlanquaye 07i; tlatlanquaye 07l; tlatlanquaye 08k; tlatlan-quaye 09a; tlatlanquaye 09f; tlatlanquaye 09g; tlatlanquaye 09h; tlatlanquaye 09i; tlatlanquaye 09m; tlatlanquaye 09n; tlatlanquaye 09q; tlatlanquaye 12a,p073_02,tlatlanquaye,p073_02,K_ID215_p073_02_Tlatlanquaye.png
+ID215,Tlatlanquaye,plant,01b; 03a; 05i; 06a; 07f; 07i; 07l; 08k; 09a; 09f; 09g; 09h; 09i; 09m; 09n; 09q; 12a,p083_01,tlatlan-quaye,,,,,tlatlanquaye 01b; tlatlanquaye 03a; tlatlanquaye 05i; tlatlanquaye 06a; tlatlanquaye 07f; tlatlanquaye 07i; tlatlanquaye 07l; tlatlanquaye 08k; tlatlan-quaye 09a; tlatlanquaye 09f; tlatlanquaye 09g; tlatlanquaye 09h; tlatlanquaye 09i; tlatlanquaye 09m; tlatlanquaye 09n; tlatlanquaye 09q; tlatlanquaye 12a,p083_01,tlatlanquaye,p083_01,L_ID215_p083_01_Tlatlanquaye.png
+ID217,Tlatlaolton,plant,07b; 08k,p046_01,,,,,,tlatlaolton 07b; tlatlaolton 08k,p046_01,tlatlaolton,p046_01,J_ID217_p046_01_Tlatlaolton.png
+ID220,Tla-yapaloni,plant,01b; 09f; 09n; 12a,p008_02,tlayapaloni,Tla/thing or something,,,,tla-yapaloni 01b; tlayapaloni 09f; tla-yapaloni 09n; tla-yapaloni 12a,p008_02,tla-yapaloni,p008_02,D_ID220_p008_02_Tla-yapaloni.png
+ID220,Tla-yapaloni,plant,01b; 09f; 09n; 12a,p080_02,tlayapaloni,Tla/thing or something,,,,tla-yapaloni 01b; tlayapaloni 09f; tla-yapaloni 09n; tla-yapaloni 12a,p080_02,tla-yapaloni,p080_02,L_ID220_p080_02_Tla-yapaloni.png
+ID221,Tlazol-patli,plant,02g; 09b,p020_01,azcapan-ixua-tlazol-patli,Patli/medicine; Tlazol/filth,,,,tlazol-patli 02g; tlazol-patli 09b,p020_01,tlazol-patli,p020_01,D_ID221_p020_01_Tlazol-patli.png
+ID222,Tlazol-teo-zacatl,plant,09b; 09f,p080_01,tlazo-teo-zacatl; tlazolco-zacatl,Teo/divine; Tlazol/filth; Zacatl/grass,,,,tlazolco-zacatl 09b; tlazo-teo-zacatl 09f,p080_01,tlazol-teo-zacatl,p080_01,K_ID222_p080_01_Tlazol-teo-zacatl.png
+ID224,Tlil-xochitl,plant,10k,p104_02,,Xochitl/flower,,,,tlil-xochitl 10k,p104_02,tlil-xochitl,p104_02,A_ID224_p104_02_Tlil-xochitl.png
+ID226,Tzayanal-quilitl,plant,09e,p079_03,,Quilitl/edible green,,,,tzayanal-quilitl 09e,p079_03,tzayanal-quilitl,p079_03,K_ID226_p079_03_Tzayanal-quilitl.png
+ID227,Tzihuac-copalli,plant,09l,p086_01,,Copalli/incense,,,,tzihuac-copalli 09l,p086_01,tzihuac-copalli,p086_01,L_ID227_p086_01_Tzihuac-copalli.png
+ID228,A-tzitzicaztli,plant,,p026_01,,Atl/water,,,,,p026_01,a-tzitzicaztli,p026_01,D_ID228_p026_01_A-tzitzicaztli.png
+ID229,Colo-tzitzicaztli,plant,09k,p085_03,,,,,,colo-tzitzicaztli 09k,p085_03,colo-tzitzicaztli,p085_03,L_ID229_p085_03_Colo-tzitzicaztli.png
+ID233,Tzitzicton,plant,07b; 08h,p064_02,,,,,,tzitzicton 07b; tzitzicton 08h,p064_02,tzitzicton,p064_02,M_ID233_p064_02_Tzitzicton.png
+ID233,Tzitzicton,plant,07b; 08h,p046_02,,,,,,tzitzicton 07b; tzitzicton 08h,p046_02,tzitzicton,p046_02,J_ID233_p046_02_Tzitzicton.png
+ID236,Tzon-pilihuiz-xihuitl,plant,04a; 07g,p024_01,tzonpilihuiz xihuitl; tzonpilihuiz-xihuitl,"Tzon/hair; Xihuitl/herbs, green leaves",,,,tzonpilihuiz-xihuitl 04a; tzonpilihuiz-xihuitl 07g,p024_01,tzon-pilihuiz-xihuitl,p024_01,D_ID236_p024_01_Tzon-pilihuiz-xihuitl.png
+ID238,Tzotzoca-xihuitl,plant,,p096_01,tzotzoca xihuitl,"Xihuitl/herbs, green leaves",,,,,p096_01,tzotzoca-xihuitl,p096_01,Z_ID238_p096_01_Tzotzoca-xihuitl.png
+ID240,Xal-tomatl,plant,05e; 09e; 11a,p014_01,,Tomatl/tomato; Xal/sand,,,,xal-tomatl 05e; xal-tomatl 09e; xal-tomatl 11a,p014_01,xal-tomatl,p014_01,D_ID240_p014_01_Xal-tomatl.png
+ID241,Xa-xocotl,plant,07k; 09e,p053_01,,Xocotl/sour fruit,,,,xa-xocotl 07k; xa-xocotl 09e,p053_01,xa-xocotl,p053_01,N_ID241_p053_01_Xa-xocotl.png
+ID245,Xiuh-patli,plant,11c,p067_09,xiuh pahtli; xiuhpatli,"Patli/medicine; Xihuitl/herbs, green leaves",,,,xiuhpatli 11c,p067_09,xiuh-patli,p067_09,M_ID245_p067_09_Xiuh-patli.png
+ID246,Xiuh-tlemaitl,plant,09k,p085_05,,"Xihuitl/herbs, green leaves",,,,xiuh-tlemaitl 09k,p085_05,xiuh-tlemaitl,p085_05,L_ID246_p085_05_Xiuh-tlemaitl.png
+ID248,Xomalin,plant,,p110_02,,,,,,,p110_02,xomalin,p110_02,A_ID248_p110_02_Xomalin.png
+ID250,Ohua-xoxocoyolin,plant,07j; 08c; 09h,p017_01,ohua-xocoyolin,Xocotl/sour fruit,,,,ohua-xocoyolin 07j; ohua-xocoyolin 08c; ohua-xocoyolin 09h,p017_01,ohua-xoxocoyolin,p017_01,D_ID250_p017_01_Ohua-xoxocoyolin.png
+ID251,Quauhtla xoxocoyolin,plant,,p009_01,quauhtla-xoxocoyolin,Quahuitl/tree or wood; Xocotl/sour fruit,,,,,p009_01,quauhtla xoxocoyolin,p009_01,D_ID251_p009_01_Quauhtla_xoxocoyolin.png
+ID252,xoxouhca-patli,plant,03a; 06i; 08g,p022_02,quetzal-xoxouhqui; xoxouhqui-patli,Patli/medicine; Xocotl/sour fruit,,,,xoxouhqui-patli 03a; quetzal-xoxouhqui 06i; xoxouhca-patli 08g,p022_02,xoxouhca-patli,p022_02,D_ID252_p022_02_xoxouhca-patli.png
+ID252,xoxouhca-patli,plant,03a; 06i; 08g,p063_01,quetzal-xoxouhqui; xoxouhqui-patli,Patli/medicine; Xocotl/sour fruit,,,,xoxouhqui-patli 03a; quetzal-xoxouhqui 06i; xoxouhca-patli 08g,p063_01,xoxouhca-patli,p063_01,M_ID252_p063_01_xoxouhca-patli.png
+ID254,Zaca-matlalin,plant,09b; 09o,p089_01,zaca malalin,Zacatl/grass,,,,zaca-matlalin 09b; zaca-matlalin 09o,p089_01,zaca-matlalin,p089_01,Z_ID254_p089_01_Zaca-matlalin.png
+ID255,Zozoyatic,plant,10i,p102_01,,,,,,zozoyatic 10i,p102_01,zozoyatic,p102_01,A_ID255_p102_01_Zozoyatic.png
+ID257,Tonatiuh yxiuh v1,plant,06f; 06g; 08e; 09b; 09e; 09h; 09o; 10d; 13a,p042_01,tonatiuh yxiuh; tonatiuh-yxiuh; tonatiuh yxiuh ahhuachcho,"Tonatiuh/sun; Xihuitl/herbs, green leaves",,,,tonatiuh yxiuh 06f; tonatiuh yxiuh 06g; tonatiuh-yxiuh 08e; tonatiuh yxiuh 09b; tonatiuh-yxiuh 09e; tonatiuh-yxiuh 09h; tonatiuh-yxiuh 09o; tonatiuh-yxiuh 10d; tonatiuh yxiuh 13a,p042_01,tonatiuh yxiuh v1,p042_01,J_ID257_p042_01_Tonatiuh_yxiuh_v1.png
+ID258,Tonatiuh yxiuh v2,plant,07h,p051_02,tonatiuh yxiuh pepetlaca; tonatiuh-yxiuh,"Tonatiuh/sun; Xihuitl/herbs, green leaves",,,,tonatiuh-yxiuh 07h,p051_02,tonatiuh yxiuh v2,p051_02,N_ID258_p051_02_Tonatiuh_yxiuh_v2.png
+ID262,Xococ quahuitl,plant,,p069_04,,Quahuitl/tree or wood; Xocotl/sour fruit,,,,,p069_04,xococ quahuitl,p069_04,K_ID262_p069_04_Xococ_quahuitl.png
+ID265,A-camallo-tetl v1,plant,12a,p113_01,a-camallo-tetl,Atl/water; Tetl/stone,,,,a-camallo-tetl 12a,p113_01,a-camallo-tetl v1,p113_01,D_ID265_p113_01_A-camallo-tetl_v1.png
+ID400,Tlah-chinolpan-ixua xihuitl,plant,,p041_01,,,,,,,p041_01,tlah-chinolpan-ixua xihuitl,p041_01,J_ID400_p041_01_Tlah-chinolpan-ixua_xihuitl.png
+ID401,Elo-capolin,plant,,p088_01,,,,,,,p088_01,elo-capolin,p088_01,L_ID401_p088_01_Elo-capolin.png
