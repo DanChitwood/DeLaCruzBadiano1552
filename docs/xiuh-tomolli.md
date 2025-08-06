@@ -1,0 +1,35 @@
+
+**Morphemes:**
+
+- Xihuitl/herbs, green leaves
+
+## Subchapter 7d  
+
+=== "English :flag_us:"
+    **For burning at the heart.** For heat at the heart take the juice from the root [tlaca-camotli](Tlaca-camotli.md), white pearl, crystal, a very bright greenstone, beryl and the stone [xiuh-tomolli](xiuh-tomolli.md), with a-camallo-tetl and sharp stones ground in water; this helps more.  
+    [https://archive.org/details/aztec-herbal-of-1552/page/48](https://archive.org/details/aztec-herbal-of-1552/page/48)  
+
+
+=== "Español :flag_mx:"
+    **Para ardor en el corazón.** Para el calor en el corazón, se toma el jugo de la raíz [tlaca-camotli](Tlaca-camotli.md), perla blanca, cristal, una piedra verde muy brillante, berilo y la piedra [xiuh-tomolli](xiuh-tomolli.md), con a-camallo-tetl y piedras agudas trituradas en agua; esto ayuda más.  
+
+## Subchapter 7h  
+
+=== "English :flag_us:"
+    **Antidote.** Against poison let a potion be taken prepared from the leaf and root of the [tonatiuh-yxiuh](Tonatiuh yxiuh v2.md), the root of the [teo-iztaquilitl](Teo-iztaquilitl.md), the [xoxouhqui-itzli](xoxouhqui-itzli.md), the [tonatiuh-yxiuh](Tonatiuh yxiuh v2.md) ahhuachcho, ground together in water, with which are also to be ground up the bright pearl, sardonyx and [xiuh-tomolli](xiuh-tomolli.md).  
+    [https://archive.org/details/aztec-herbal-of-1552/page/51](https://archive.org/details/aztec-herbal-of-1552/page/51)  
+
+
+=== "Español :flag_mx:"
+    **Antídoto.** Contra el veneno se debe tomar una poción preparada con la hoja y la raíz del [tonatiuh-yxiuh](Tonatiuh yxiuh v2.md), la raíz del [teo-iztaquilitl](Teo-iztaquilitl.md), el [xoxouhqui-itzli](xoxouhqui-itzli.md), el [tonatiuh-yxiuh](Tonatiuh yxiuh v2.md) ahhuachcho, todo triturado en agua, junto con perla brillante, sardónice y [xiuh-tomolli](xiuh-tomolli.md).  
+
+## Subchapter 9b  
+
+=== "English :flag_us:"
+    **Fevers.** The face in marking fevers has various changes, at times flushed, at times darkened, again blanched. He also spits blood, the body jerks and turns hither and thither, he sees little. At times bitterness, now burning, now sweetness of a kind fills the mouth, or rather palate. One who is such certain has his stomach corrupted. Although the urine is whitish, unless you avert the danger quickly the medicine will be prepared too late. Wherefore you will help him wonderfully if you macerate the plants [centzon-xochitl](Centzon-xochitl.md), [teo-iztacuilitl](Teo-iztaquilitl.md), [a-quiztli](Ahquiztli.md), tlanextia xihuitl, cuauhtla huita-quilitl, [tonatiuh yxiuh](Tonatiuh yxiuh v1.md), [tlazolco-zacatl](Tlazol-teo-zacatl.md), [mamaxtla-nelhuatl](Mamaxtla-nelhuatl.md), [oco-xochitl](Iztac oco-xochitl.md), [zaca-matlalin](Zaca-matlalin.md), the bush [tlanextia quahuitl](Tlanextia quahuitl.md), the stones you find in the stomachs of these birds: the [huitlalotl](huitlalotl.md), [huactli](huactli.md), [aztatl](aztatl.md), [apopotli](apopotli.md), [tlacahuilotl](tlacahuilotl.md), [huexo-canauhtli](huexo-canauhtli.md), [xiuh-quechol-tototl](xiuh-quechol-tototl.md), [tototl](tototl.md), [tlpal-tototl](tlapal-tototl.md), [noch-tototl](noch-tototl.md), [acatzanatl](acatzanatl.md), [zolin](zolin.md); the precious stones, fine green pearl, greenstone, sardonyx and [xiuh-tomolli](xiuh-tomolli.md), with burned human bone, from all which a liquor is to be heated quickly and then drunk. This potion being prepared, the stone [texalli](texalli.md) is ground in water, and a part of the liquor poured on his head, his feet bathed with a part, and the throat moistened with part. Also let him drink some. Then these plants are to be crushed in bitter water, the [xiuh-ecapatli](Eca-patli.md), [tetzmitl](Tetzmitl.md), [oco-xochitl](Iztac oco-xochitl.md), [centzon-xochitl](Centzon-xochitl.md), [tepe-chian](Tepe-chian.md), [tzom-pachtin](Tzon-pachtzin.md), [iztac-oco-xochitl](Iztac oco-xochitl.md), [tonatiuh yxiuh](Tonatiuh yxiuh v1.md), all of which are to be gathered in the fervent heat of the sun; then adding the willow and laurel and human bone, he is to be wet with their liquor. With this the tooth of a corpse is placed on the crown of the head. The plants [teco-xochiti-xihuitl](teco-xochiti-xihuitl.md) and [tlazol-patli](Tlazol-patli.md) are crushed in woman’s milk, and with this the occuput and nostrils are to be anointed; after all this is done, take heed that he smell a flower of some kind, and sleep during the day.  
+    [https://archive.org/details/aztec-herbal-of-1552/page/75](https://archive.org/details/aztec-herbal-of-1552/page/75)  
+
+
+=== "Español :flag_mx:"
+    **Fiebres.** El rostro en quienes presentan fiebre cambia de muchas formas: a veces enrojecido, otras veces oscuro, otras pálido. También escupe sangre, el cuerpo da sacudidas y se retuerce, ve poco. A veces se llena la boca, o más bien el paladar, de amargor, ardor o un tipo de dulzura. Ciertamente, quien sufre esto tiene el estómago corrompido. Aunque la orina sea blanquecina, si no se evita el peligro rápidamente, la medicina se preparará demasiado tarde. Por eso lo ayudarás maravillosamente si maceras las plantas [centzon-xochitl](Centzon-xochitl.md), [teo-iztacuilitl](Teo-iztaquilitl.md), [a-quiztli](Ahquiztli.md), tlanextia xihuitl, cuauhtla huita-quilitl, [tonatiuh yxiuh](Tonatiuh yxiuh v1.md), [tlazolco-zacatl](Tlazol-teo-zacatl.md), [mamaxtla-nelhuatl](Mamaxtla-nelhuatl.md), [oco-xochitl](Iztac oco-xochitl.md), [zaca-matlalin](Zaca-matlalin.md), el arbusto [tlanextia quahuitl](Tlanextia quahuitl.md), las piedras que se encuentran en los estómagos de estas aves: [huitlalotl](huitlalotl.md), [huactli](huactli.md), [aztatl](aztatl.md), [apopotli](apopotli.md), [tlacahuilotl](tlacahuilotl.md), [huexo-canauhtli](huexo-canauhtli.md), [xiuh-quechol-tototl](xiuh-quechol-tototl.md), [tototl](tototl.md), [tlpal-tototl](tlapal-tototl.md), [noch-tototl](noch-tototl.md), [acatzanatl](acatzanatl.md), [zolin](zolin.md); las piedras preciosas como perla verde fina, piedra verde, sardónice y [xiuh-tomolli](xiuh-tomolli.md), junto con hueso humano quemado, de todo lo cual se calienta rápidamente un licor que luego debe beberse. Preparado este brebaje, se muele la piedra [texalli](texalli.md) en agua, y se vierte parte del licor sobre su cabeza, se le bañan los pies con otra parte, y se le humedece la garganta con otra porción. También debe beber un poco. Luego deben machacarse en agua amarga estas plantas: [xiuh-ecapatli](Eca-patli.md), [tetzmitl](Tetzmitl.md), [oco-xochitl](Iztac oco-xochitl.md), [centzon-xochitl](Centzon-xochitl.md), [tepe-chian](Tepe-chian.md), [tzom-pachtin](Tzon-pachtzin.md), [iztac-oco-xochitl](Iztac oco-xochitl.md), [tonatiuh yxiuh](Tonatiuh yxiuh v1.md), todas recolectadas bajo el calor intenso del sol. Añadiendo sauce, laurel y hueso humano, se moja con este licor. Con esto se coloca un diente de cadáver en la coronilla. Las plantas [teco-xochiti-xihuitl](teco-xochiti-xihuitl.md) y [tlazol-patli](Tlazol-patli.md) se trituran en leche de mujer, y con esto se ungen el occipucio y las fosas nasales. Después de todo esto, cuídese que huela alguna flor y duerma durante el día.  
+
