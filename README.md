@@ -28,17 +28,16 @@ Botany, De la Cruz-Badiano Herbal, Indigenous knowledge, Libellus de Medicinalib
 ![Alt](https://github.com/DanChitwood/DeLaCruzBadiano1552/blob/main/analysis/outputs/figures/fig_ECT.png)  
 **Figure 5: Radial Euler Characteristic Transform (ECT).** For random leaves from each indicated Nahuatl plant, the radial ECT aligned with the corresponding leaf shape outline. The radial ECT and shape mask for the leaf are the inputs for a 2-channel Convolutional Neural Network (CNN).  
 
-| Metric              |   Xihuitl |   Xochitl |   Quahuitl |   Patli |   Quilitl |   micro avg |   macro avg |   weighted avg |
-|:--------------------|----------:|----------:|-----------:|--------:|----------:|------------:|------------:|---------------:|
-| Precision (Leaves)  |      0.99 |      0.99 |       0.99 |    0.99 |      0.99 |        0.99 |        0.99 |           0.99 |
-| Recall (Leaves)     |      0.72 |      0.72 |       0.72 |    0.72 |      0.72 |        0.72 |        0.72 |           0.72 |
-| F1 (Leaves)         |      0.83 |      0.83 |       0.83 |    0.83 |      0.83 |        0.83 |        0.83 |           0.83 |
-| Precision (English) |      0.68 |      0.68 |       0.68 |    0.68 |      0.68 |        0.68 |        0.68 |           0.68 |
-| Recall (English)    |      0.61 |      0.61 |       0.61 |    0.61 |      0.61 |        0.61 |        0.61 |           0.61 |
-| F1 (English)        |      0.62 |      0.62 |       0.62 |    0.62 |      0.62 |        0.62 |        0.62 |           0.62 |
-| Precision (Spanish) |      0.68 |      0.68 |       0.68 |    0.68 |      0.68 |        0.68 |        0.68 |           0.68 |
-| Recall (Spanish)    |      0.56 |      0.56 |       0.56 |    0.56 |      0.56 |        0.56 |        0.56 |           0.56 |
-| F1 (Spanish)        |      0.56 |      0.56 |       0.56 |    0.56 |      0.56 |        0.56 |        0.56 |           0.56 |  
+| Class/Average   |   Precision (Leaves) |   Recall (Leaves) |   F1 (Leaves) |   Precision (English) |   Recall (English) |   F1 (English) |   Precision (Spanish) |   Recall (Spanish) |   F1 (Spanish) |
+|:----------------|---------------------:|------------------:|--------------:|----------------------:|-------------------:|---------------:|----------------------:|-------------------:|---------------:|
+| Xihuitl         |                 0.99 |              0.66 |          0.79 |                  0.77 |               0.55 |           0.64 |                  0.78 |               0.68 |           0.72 |
+| Xochitl         |                 0.99 |              0.9  |          0.94 |                  0.7  |               0.62 |           0.65 |                  0.73 |               0.62 |           0.67 |
+| Quahuitl        |                 0.99 |              0.94 |          0.96 |                  0.6  |               0.8  |           0.69 |                  0.52 |               0.93 |           0.67 |
+| Patli           |                 0.98 |              0.62 |          0.76 |                  1    |               0.35 |           0.52 |                  0.56 |               0.59 |           0.57 |
+| Quilitl         |                 0.99 |              0.74 |          0.85 |                  0.44 |               1    |           0.62 |                  0.44 |               1    |           0.62 |
+| micro avg       |                 0.99 |              0.72 |          0.83 |                  0.66 |               0.61 |           0.63 |                  0.62 |               0.71 |           0.66 |
+| macro avg       |                 0.99 |              0.77 |          0.86 |                  0.7  |               0.66 |           0.62 |                  0.6  |               0.76 |           0.65 |
+| weighted avg    |                 0.99 |              0.72 |          0.83 |                  0.74 |               0.61 |           0.63 |                  0.66 |               0.71 |           0.66 |
 
 **Table 1:** Unimodal CNN performance for leaf shapes and English and Spanish text embeddings for the five indicated Nahuatl plant categories.
 
@@ -47,17 +46,17 @@ Botany, De la Cruz-Badiano Herbal, Indigenous knowledge, Libellus de Medicinalib
 
 | Metric                      |   Image-to-Text |   Text-to-Image |   Image-to-Graph |   Graph-to-Image |   Text-to-Graph |   Graph-to-Text |
 |:----------------------------|----------------:|----------------:|-----------------:|-----------------:|----------------:|----------------:|
-| MAP avg.                    |          0.0512 |          0.0639 |           0.0504 |           0.0587 |          0.2529 |          0.2587 |
-| MAP std.                    |          0.0051 |          0.0058 |           0.0047 |           0.0047 |          0.0047 |          0.0018 |
-| Recall@1 score avg.         |          0.0161 |          0.0223 |           0.0139 |           0.0198 |          0.1025 |          0.1079 |
-| Recall@1 score std.         |          0.0024 |          0.0026 |           0.0014 |           0.0046 |          0.0034 |          0.002  |
-| Recall@1 above chance avg.  |         13      |         18      |          11.2    |          16      |         82.8    |         87.2    |
-| Recall@5 score avg.         |          0.0685 |          0.0866 |           0.0641 |           0.0792 |          0.4093 |          0.4113 |
-| Recall@5 score std.         |          0.0077 |          0.0086 |           0.009  |           0.0081 |          0.0075 |          0.0033 |
-| Recall@5 above chance avg.  |         11.08   |         14      |          10.36   |          12.8    |         66.16   |         66.48   |
-| Recall@10 score avg.        |          0.1247 |          0.1386 |           0.1096 |           0.1302 |          0.614  |          0.6088 |
-| Recall@10 score std.        |          0.0114 |          0.0129 |           0.0085 |           0.008  |          0.009  |          0.0032 |
-| Recall@10 above chance avg. |         10.08   |         11.2    |           8.86   |          10.52   |         49.62   |         49.2    |  
+| MAP avg.                    |          0.0507 |          0.0635 |           0.044  |           0.0588 |          0.2563 |          0.261  |
+| MAP std.                    |          0.0086 |          0.0053 |           0.0025 |           0.0024 |          0.0036 |          0.0027 |
+| Recall@1 score avg.         |          0.0141 |          0.023  |           0.0131 |           0.0213 |          0.1042 |          0.1094 |
+| Recall@1 score std.         |          0.002  |          0.0018 |           0.0025 |           0.0024 |          0.0027 |          0.0006 |
+| Recall@1 above chance avg.  |         11.4    |         18.6    |          10.6    |          17.2    |         84.2    |         88.4    |
+| Recall@5 score avg.         |          0.0668 |          0.0836 |           0.0589 |           0.0775 |          0.413  |          0.419  |
+| Recall@5 score std.         |          0.0104 |          0.0091 |           0.0089 |           0.0049 |          0.0048 |          0.0036 |
+| Recall@5 above chance avg.  |         10.8    |         13.52   |           9.52   |          12.52   |         66.76   |         67.72   |
+| Recall@10 score avg.        |          0.1165 |          0.1339 |           0.1054 |           0.1232 |          0.6187 |          0.6172 |
+| Recall@10 score std.        |          0.0139 |          0.0071 |           0.0072 |           0.0064 |          0.0072 |          0.0029 |
+| Recall@10 above chance avg. |          9.42   |         10.82   |           8.52   |           9.96   |         50      |         49.88   |
 
 **Table 2:** Multimodal Three Tower CNN performance for each pair and direction of modalities.  
 
